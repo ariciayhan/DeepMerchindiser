@@ -1,0 +1,2756 @@
+[
+    {
+      "productCode": 2017100520,
+      "data": [
+        {
+          "prob": 0.9927031993865967,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.006978339981287718,
+          "cat": "wash-and-wear"
+        },
+        {
+          "prob": 0.00030727896955795586,
+          "last": true,
+          "cat": "pique"
+        }
+      ]
+    },
+    {
+      "productCode": 2017100780,
+      "data": [
+        {
+          "prob": 0.9992683529853821,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.0007143972325138748,
+          "cat": "wash-and-wear"
+        },
+        {
+          "prob": 0.00000910515427676728,
+          "last": true,
+          "cat": "pique"
+        }
+      ]
+    },
+    {
+      "productCode": 2017100781,
+      "data": [
+        {
+          "prob": 0.9983972907066345,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.001419621054083109,
+          "cat": "duffel, duffle"
+        },
+        {
+          "prob": 0.0001538569194963202,
+          "last": true,
+          "cat": "waterproof"
+        }
+      ]
+    },
+    {
+      "productCode": 20172500910,
+      "data": [
+        {
+          "prob": 0.9993727803230286,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.00024205897352658212,
+          "cat": "chino"
+        },
+        {
+          "prob": 0.00018846394959837198,
+          "last": true,
+          "cat": "wash-and-wear"
+        }
+      ]
+    },
+    {
+      "productCode": "CamoEmbossedTee",
+      "data": [
+        {
+          "prob": 0.966315746307373,
+          "cat": "olive drab"
+        },
+        {
+          "prob": 0.0288467388600111,
+          "cat": "camouflage, camo"
+        },
+        {
+          "prob": 0.004823965486139059,
+          "last": true,
+          "cat": "webbing"
+        }
+      ]
+    },
+    {
+      "productCode": 2017100784,
+      "data": [
+        {
+          "prob": 1,
+          "cat": "jersey"
+        },
+        {
+          "prob": 1.3226181927450398e-8,
+          "cat": "duffel, duffle"
+        },
+        {
+          "prob": 8.93066154361577e-9,
+          "last": true,
+          "cat": "yoke"
+        }
+      ]
+    },
+    {
+      "productCode": "NavyCamoKangrooHoodie",
+      "data": [
+        {
+          "prob": 0.855085015296936,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.08807920664548874,
+          "cat": "waterproof"
+        },
+        {
+          "prob": 0.05550997331738472,
+          "last": true,
+          "cat": "fleece"
+        }
+      ]
+    },
+    {
+      "productCode": "CamoEmbossedTee2",
+      "data": [
+        {
+          "prob": 0.46207717061042786,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.4420977532863617,
+          "cat": "fleece"
+        },
+        {
+          "prob": 0.03991406410932541,
+          "last": true,
+          "cat": "waterproof"
+        }
+      ]
+    },
+    {
+      "productCode": 20174003012,
+      "data": [
+        {
+          "prob": 0.7903874516487122,
+          "cat": "velour, velours"
+        },
+        {
+          "prob": 0.17658884823322296,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.010105757974088192,
+          "last": true,
+          "cat": "velvet"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400322,
+      "data": [
+        {
+          "prob": 0.9997425675392151,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.0001415504957549274,
+          "cat": "wash-and-wear"
+        },
+        {
+          "prob": 0.00008182539022527635,
+          "last": true,
+          "cat": "bib"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400323,
+      "data": [
+        {
+          "prob": 0.9082069396972656,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.01868227869272232,
+          "cat": "lisle"
+        },
+        {
+          "prob": 0.01583215966820717,
+          "last": true,
+          "cat": "wide wale"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400324,
+      "data": [
+        {
+          "prob": 0.8229532837867737,
+          "cat": "bib"
+        },
+        {
+          "prob": 0.0955604761838913,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.024560879915952682,
+          "last": true,
+          "cat": "plush"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400308,
+      "data": [
+        {
+          "prob": 0.9998713731765747,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.00006060987288947217,
+          "cat": "pique"
+        },
+        {
+          "prob": 0.000014460723832598887,
+          "last": true,
+          "cat": "duffel, duffle"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400309,
+      "data": [
+        {
+          "prob": 0.976205050945282,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.01906765066087246,
+          "cat": "pique"
+        },
+        {
+          "prob": 0.0013710219645872712,
+          "last": true,
+          "cat": "wash-and-wear"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400310,
+      "data": [
+        {
+          "prob": 0.9716917276382446,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.021467261016368866,
+          "cat": "duffel, duffle"
+        },
+        {
+          "prob": 0.006697652395814657,
+          "last": true,
+          "cat": "waterproof"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400314,
+      "data": [
+        {
+          "prob": 0.9876043796539307,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.012279394082725048,
+          "cat": "pique"
+        },
+        {
+          "prob": 0.000083008679212071,
+          "last": true,
+          "cat": "waterproof"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1679",
+      "data": [
+        {
+          "prob": 0.24427014589309692,
+          "cat": "faille"
+        },
+        {
+          "prob": 0.2323174625635147,
+          "cat": "velvet"
+        },
+        {
+          "prob": 0.2018701732158661,
+          "last": true,
+          "cat": "cashmere"
+        }
+      ]
+    },
+    {
+      "productCode": "andre",
+      "data": [
+        {
+          "prob": 0.5724578499794006,
+          "cat": "placket"
+        },
+        {
+          "prob": 0.1982576847076416,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.18406198918819427,
+          "last": true,
+          "cat": "jersey"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1531",
+      "data": [
+        {
+          "prob": 0.4084119498729706,
+          "cat": "drapery"
+        },
+        {
+          "prob": 0.20989829301834106,
+          "cat": "velvet"
+        },
+        {
+          "prob": 0.10726118087768555,
+          "last": true,
+          "cat": "taffeta"
+        }
+      ]
+    },
+    {
+      "productCode": "caua",
+      "data": [
+        {
+          "prob": 0.49001866579055786,
+          "cat": "wash-and-wear"
+        },
+        {
+          "prob": 0.14415717124938965,
+          "cat": "print"
+        },
+        {
+          "prob": 0.10861615836620331,
+          "last": true,
+          "cat": "placket"
+        }
+      ]
+    },
+    {
+      "productCode": "danilo",
+      "data": [
+        {
+          "prob": 0.6240114569664001,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.21663686633110046,
+          "cat": "dust cover, dust sheet"
+        },
+        {
+          "prob": 0.06759431958198547,
+          "last": true,
+          "cat": "wash-and-wear"
+        }
+      ]
+    },
+    {
+      "productCode": "interlokpolo",
+      "data": [
+        {
+          "prob": 0.43215328454971313,
+          "cat": "pique"
+        },
+        {
+          "prob": 0.2454993724822998,
+          "cat": "wash-and-wear"
+        },
+        {
+          "prob": 0.12349406629800797,
+          "last": true,
+          "cat": "jersey"
+        }
+      ]
+    },
+    {
+      "productCode": "EAFTS01BK",
+      "data": [
+        {
+          "prob": 0.585178792476654,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.3380146920681,
+          "cat": "waterproof"
+        },
+        {
+          "prob": 0.034467268735170364,
+          "last": true,
+          "cat": "velour, velours"
+        }
+      ]
+    },
+    {
+      "productCode": "DURFY2",
+      "data": [
+        {
+          "prob": 0.7150048613548279,
+          "cat": "bunting"
+        },
+        {
+          "prob": 0.05263029783964157,
+          "cat": "drapery"
+        },
+        {
+          "prob": 0.03785374015569687,
+          "last": true,
+          "cat": "broadcloth"
+        }
+      ]
+    },
+    {
+      "productCode": "Romper6",
+      "data": [
+        {
+          "prob": 0.3266911804676056,
+          "cat": "fabric, cloth, material, textile"
+        },
+        {
+          "prob": 0.14578604698181152,
+          "cat": "tricot"
+        },
+        {
+          "prob": 0.12998904287815094,
+          "last": true,
+          "cat": "macrame"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2343UM336",
+      "data": [
+        {
+          "prob": 0.1745523065328598,
+          "cat": "burlap, gunny"
+        },
+        {
+          "prob": 0.12253934890031815,
+          "cat": "etamine, etamin"
+        },
+        {
+          "prob": 0.08927247673273087,
+          "last": true,
+          "cat": "cord, corduroy"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2325",
+      "data": [
+        {
+          "prob": 0.6145419478416443,
+          "cat": "velour, velours"
+        },
+        {
+          "prob": 0.20378389954566956,
+          "cat": "velveteen"
+        },
+        {
+          "prob": 0.03595120459794998,
+          "last": true,
+          "cat": "spandex"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2324",
+      "data": [
+        {
+          "prob": 0.34308314323425293,
+          "cat": "spandex"
+        },
+        {
+          "prob": 0.21323859691619873,
+          "cat": "velour, velours"
+        },
+        {
+          "prob": 0.07335125654935837,
+          "last": true,
+          "cat": "crinoline"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2322",
+      "data": [
+        {
+          "prob": 0.46337273716926575,
+          "cat": "chiffon"
+        },
+        {
+          "prob": 0.2773032486438751,
+          "cat": "gauze, netting, veiling"
+        },
+        {
+          "prob": 0.2104841023683548,
+          "last": true,
+          "cat": "nylon"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2306",
+      "data": [
+        {
+          "prob": 0.44097721576690674,
+          "cat": "diaper"
+        },
+        {
+          "prob": 0.22645916044712067,
+          "cat": "pique"
+        },
+        {
+          "prob": 0.06582667678594589,
+          "last": true,
+          "cat": "jersey"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2302",
+      "data": [
+        {
+          "prob": 0.2688899040222168,
+          "cat": "camouflage, camo"
+        },
+        {
+          "prob": 0.23556509613990784,
+          "cat": "lame"
+        },
+        {
+          "prob": 0.18568067252635956,
+          "last": true,
+          "cat": "brocade"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2301",
+      "data": [
+        {
+          "prob": 0.7340524792671204,
+          "cat": "brocade"
+        },
+        {
+          "prob": 0.13750699162483215,
+          "cat": "damask"
+        },
+        {
+          "prob": 0.033249158412218094,
+          "last": true,
+          "cat": "taffeta"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2296",
+      "data": [
+        {
+          "prob": 0.40160197019577026,
+          "cat": "drapery"
+        },
+        {
+          "prob": 0.18780317902565002,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.1102411299943924,
+          "last": true,
+          "cat": "taffeta"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2291",
+      "data": [
+        {
+          "prob": 0.2582544982433319,
+          "cat": "fabric, cloth, material, textile"
+        },
+        {
+          "prob": 0.17906132340431213,
+          "cat": "paper towel"
+        },
+        {
+          "prob": 0.07536876201629639,
+          "last": true,
+          "cat": "chiffon"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2277",
+      "data": [
+        {
+          "prob": 0.3379424810409546,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.24297714233398438,
+          "cat": "double knit"
+        },
+        {
+          "prob": 0.14125140011310577,
+          "last": true,
+          "cat": "placket"
+        }
+      ]
+    },
+    {
+      "productCode": "TO001",
+      "data": [
+        {
+          "prob": 0.7206874489784241,
+          "cat": "drapery"
+        },
+        {
+          "prob": 0.24478216469287872,
+          "cat": "lame"
+        },
+        {
+          "prob": 0.017124954611063004,
+          "last": true,
+          "cat": "burlap, gunny"
+        }
+      ]
+    },
+    {
+      "productCode": "LP4002",
+      "data": [
+        {
+          "prob": 0.44319289922714233,
+          "cat": "cotton"
+        },
+        {
+          "prob": 0.3973126709461212,
+          "cat": "print"
+        },
+        {
+          "prob": 0.0454283282160759,
+          "last": true,
+          "cat": "pocket-handkerchief"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2092",
+      "data": [
+        {
+          "prob": 0.47301921248435974,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.39083734154701233,
+          "cat": "fabric, cloth, material, textile"
+        },
+        {
+          "prob": 0.05755358934402466,
+          "last": true,
+          "cat": "placket"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1658",
+      "data": [
+        {
+          "prob": 0.8440433144569397,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.02126174233853817,
+          "cat": "wash-and-wear"
+        },
+        {
+          "prob": 0.019822753965854645,
+          "last": true,
+          "cat": "organza"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1961",
+      "data": [
+        {
+          "prob": 0.46055203676223755,
+          "cat": "lame"
+        },
+        {
+          "prob": 0.2502886950969696,
+          "cat": "taffeta"
+        },
+        {
+          "prob": 0.10323995351791382,
+          "last": true,
+          "cat": "chiffon"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1934",
+      "data": [
+        {
+          "prob": 0.38829755783081055,
+          "cat": "muslin"
+        },
+        {
+          "prob": 0.20727618038654327,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.20630629360675812,
+          "last": true,
+          "cat": "wash-and-wear"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1669",
+      "data": [
+        {
+          "prob": 0.39542579650878906,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.16946807503700256,
+          "cat": "tricot"
+        },
+        {
+          "prob": 0.09277135133743286,
+          "last": true,
+          "cat": "nylon"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1735",
+      "data": [
+        {
+          "prob": 0.28412654995918274,
+          "cat": "placket"
+        },
+        {
+          "prob": 0.1786319464445114,
+          "cat": "chintz"
+        },
+        {
+          "prob": 0.16015838086605072,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1788",
+      "data": [
+        {
+          "prob": 0.5066065788269043,
+          "cat": "tweed"
+        },
+        {
+          "prob": 0.1412849873304367,
+          "cat": "sharkskin"
+        },
+        {
+          "prob": 0.06725503504276276,
+          "last": true,
+          "cat": "suiting"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1894",
+      "data": [
+        {
+          "prob": 0.5398228764533997,
+          "cat": "nylon"
+        },
+        {
+          "prob": 0.14857733249664307,
+          "cat": "voile"
+        },
+        {
+          "prob": 0.10240618139505386,
+          "last": true,
+          "cat": "rayon"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2052",
+      "data": [
+        {
+          "prob": 0.987198531627655,
+          "cat": "permanent press, durable press"
+        },
+        {
+          "prob": 0.01260700449347496,
+          "cat": "wash-and-wear"
+        },
+        {
+          "prob": 0.00010435150034027174,
+          "last": true,
+          "cat": "jersey"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ413286",
+      "data": [
+        {
+          "prob": 0.7617299556732178,
+          "cat": "velveteen"
+        },
+        {
+          "prob": 0.07887017726898193,
+          "cat": "velour, velours"
+        },
+        {
+          "prob": 0.0463479682803154,
+          "last": true,
+          "cat": "panting, trousering"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ414269",
+      "data": [
+        {
+          "prob": 0.8850714564323425,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.03682732954621315,
+          "cat": "placket"
+        },
+        {
+          "prob": 0.032728832215070724,
+          "last": true,
+          "cat": "pique"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ416186",
+      "data": [
+        {
+          "prob": 0.7435013651847839,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.0581708624958992,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.05600140988826752,
+          "last": true,
+          "cat": "whipcord"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1901",
+      "data": [
+        {
+          "prob": 0.24873296916484833,
+          "cat": "velour, velours"
+        },
+        {
+          "prob": 0.11403300613164902,
+          "cat": "panting, trousering"
+        },
+        {
+          "prob": 0.09341128915548325,
+          "last": true,
+          "cat": "velveteen"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1917",
+      "data": [
+        {
+          "prob": 0.5231682658195496,
+          "cat": "brocade"
+        },
+        {
+          "prob": 0.232558473944664,
+          "cat": "lateen, lateen sail"
+        },
+        {
+          "prob": 0.042099352926015854,
+          "last": true,
+          "cat": "lace"
+        }
+      ]
+    },
+    {
+      "productCode": "O1554",
+      "data": [
+        {
+          "prob": 0.7380093336105347,
+          "cat": "satin"
+        },
+        {
+          "prob": 0.13184504210948944,
+          "cat": "taffeta"
+        },
+        {
+          "prob": 0.05604712665081024,
+          "last": true,
+          "cat": "lame"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1623",
+      "data": [
+        {
+          "prob": 0.3847499489784241,
+          "cat": "voile"
+        },
+        {
+          "prob": 0.13280989229679108,
+          "cat": "shantung"
+        },
+        {
+          "prob": 0.12871405482292175,
+          "last": true,
+          "cat": "taffeta"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1879",
+      "data": [
+        {
+          "prob": 0.5463793873786926,
+          "cat": "placket"
+        },
+        {
+          "prob": 0.3159271478652954,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.045935023576021194,
+          "last": true,
+          "cat": "rayon"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1881",
+      "data": [
+        {
+          "prob": 0.29315879940986633,
+          "cat": "nylon"
+        },
+        {
+          "prob": 0.2625431418418884,
+          "cat": "voile"
+        },
+        {
+          "prob": 0.1138353943824768,
+          "last": true,
+          "cat": "acetate rayon, acetate"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1889",
+      "data": [
+        {
+          "prob": 0.30092111229896545,
+          "cat": "leatherette, imitation leather"
+        },
+        {
+          "prob": 0.18721234798431396,
+          "cat": "nylon"
+        },
+        {
+          "prob": 0.15461178123950958,
+          "last": true,
+          "cat": "coating"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1920",
+      "data": [
+        {
+          "prob": 0.43574535846710205,
+          "cat": "dust cover, dust sheet"
+        },
+        {
+          "prob": 0.14397971332073212,
+          "cat": "denim, dungaree, jean"
+        },
+        {
+          "prob": 0.14088848233222961,
+          "last": true,
+          "cat": "leatherette, imitation leather"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1921",
+      "data": [
+        {
+          "prob": 0.17137429118156433,
+          "cat": "tweed"
+        },
+        {
+          "prob": 0.15555733442306519,
+          "cat": "wool, woolen, woollen"
+        },
+        {
+          "prob": 0.06548053026199341,
+          "last": true,
+          "cat": "sharkskin"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1948",
+      "data": [
+        {
+          "prob": 0.3392254710197449,
+          "cat": "tweed"
+        },
+        {
+          "prob": 0.10040250420570374,
+          "cat": "wool, woolen, woollen"
+        },
+        {
+          "prob": 0.07198390364646912,
+          "last": true,
+          "cat": "whipcord"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2015",
+      "data": [
+        {
+          "prob": 0.20134884119033813,
+          "cat": "voile"
+        },
+        {
+          "prob": 0.08171084523200989,
+          "cat": "nylon"
+        },
+        {
+          "prob": 0.07636303454637527,
+          "last": true,
+          "cat": "jersey"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2017",
+      "data": [
+        {
+          "prob": 0.6621389985084534,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.12608373165130615,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.07052066922187805,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2031",
+      "data": [
+        {
+          "prob": 0.21075595915317535,
+          "cat": "gabardine"
+        },
+        {
+          "prob": 0.1920424997806549,
+          "cat": "sharkskin"
+        },
+        {
+          "prob": 0.11276866495609283,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "TP935",
+      "data": [
+        {
+          "prob": 0.6604165434837341,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.2037516087293625,
+          "cat": "fabric, cloth, material, textile"
+        },
+        {
+          "prob": 0.05784502252936363,
+          "last": true,
+          "cat": "jersey"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2350",
+      "data": [
+        {
+          "prob": 0.26757264137268066,
+          "cat": "placket"
+        },
+        {
+          "prob": 0.25305524468421936,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.1497609168291092,
+          "last": true,
+          "cat": "fustian"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2349",
+      "data": [
+        {
+          "prob": 0.4085741639137268,
+          "cat": "pique"
+        },
+        {
+          "prob": 0.4077683985233307,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.09619998931884766,
+          "last": true,
+          "cat": "Aertex"
+        }
+      ]
+    },
+    {
+      "productCode": "kldn27",
+      "data": [
+        {
+          "prob": 0.3081764578819275,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.15622152388095856,
+          "cat": "placket"
+        },
+        {
+          "prob": 0.1415291577577591,
+          "last": true,
+          "cat": "dust cover, dust sheet"
+        }
+      ]
+    },
+    {
+      "productCode": "KG428",
+      "data": [
+        {
+          "prob": 0.34782904386520386,
+          "cat": "dust cover, dust sheet"
+        },
+        {
+          "prob": 0.1377018243074417,
+          "cat": "sacking, bagging"
+        },
+        {
+          "prob": 0.12171675264835358,
+          "last": true,
+          "cat": "burlap, gunny"
+        }
+      ]
+    },
+    {
+      "productCode": "od608",
+      "data": [
+        {
+          "prob": 0.6631474494934082,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.0865463837981224,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.036287594586610794,
+          "last": true,
+          "cat": "wash-and-wear"
+        }
+      ]
+    },
+    {
+      "productCode": "j001",
+      "data": [
+        {
+          "prob": 0.3353117108345032,
+          "cat": "organdy, organdie"
+        },
+        {
+          "prob": 0.08415842801332474,
+          "cat": "macrame"
+        },
+        {
+          "prob": 0.07982662320137024,
+          "last": true,
+          "cat": "gingham"
+        }
+      ]
+    },
+    {
+      "productCode": "j031",
+      "data": [
+        {
+          "prob": 0.17020082473754883,
+          "cat": "wash-and-wear"
+        },
+        {
+          "prob": 0.15671002864837646,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.15036150813102722,
+          "last": true,
+          "cat": "muslin"
+        }
+      ]
+    },
+    {
+      "productCode": "TW421CA3X",
+      "data": [
+        {
+          "prob": 0.2247655689716339,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.17070911824703217,
+          "cat": "doeskin"
+        },
+        {
+          "prob": 0.1401219666004181,
+          "last": true,
+          "cat": "fleece"
+        }
+      ]
+    },
+    {
+      "productCode": "TW4FW17",
+      "data": [
+        {
+          "prob": 0.9748116135597229,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.022859591990709305,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.0010588369332253933,
+          "last": true,
+          "cat": "sacking, bagging"
+        }
+      ]
+    },
+    {
+      "productCode": "ZALTT1002",
+      "data": [
+        {
+          "prob": 0.9758475422859192,
+          "cat": "damask"
+        },
+        {
+          "prob": 0.015159621834754944,
+          "cat": "print"
+        },
+        {
+          "prob": 0.002564652357250452,
+          "last": true,
+          "cat": "paisley"
+        }
+      ]
+    },
+    {
+      "productCode": "ZALEO003",
+      "data": [
+        {
+          "prob": 0.936391294002533,
+          "cat": "macrame"
+        },
+        {
+          "prob": 0.03905762732028961,
+          "cat": "point lace, needlepoint"
+        },
+        {
+          "prob": 0.007869946770370007,
+          "last": true,
+          "cat": "etamine, etamin"
+        }
+      ]
+    },
+    {
+      "productCode": "ZALTT1003",
+      "data": [
+        {
+          "prob": 0.9218076467514038,
+          "cat": "damask"
+        },
+        {
+          "prob": 0.05730326846241951,
+          "cat": "elastic"
+        },
+        {
+          "prob": 0.005001758690923452,
+          "last": true,
+          "cat": "canvas, canvass"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1815",
+      "data": [
+        {
+          "prob": 0.7200555205345154,
+          "cat": "pinstripe"
+        },
+        {
+          "prob": 0.049326010048389435,
+          "cat": "tricot"
+        },
+        {
+          "prob": 0.03793476149439812,
+          "last": true,
+          "cat": "chiffon"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2210",
+      "data": [
+        {
+          "prob": 0.30218592286109924,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.12083315849304199,
+          "cat": "khaki"
+        },
+        {
+          "prob": 0.11522066593170166,
+          "last": true,
+          "cat": "cashmere"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2083",
+      "data": [
+        {
+          "prob": 0.34068620204925537,
+          "cat": "poplin"
+        },
+        {
+          "prob": 0.18155865371227264,
+          "cat": "gabardine"
+        },
+        {
+          "prob": 0.14537884294986725,
+          "last": true,
+          "cat": "nylon"
+        }
+      ]
+    },
+    {
+      "productCode": "dd913215",
+      "data": [
+        {
+          "prob": 0.15056566894054413,
+          "cat": "pique"
+        },
+        {
+          "prob": 0.0831458568572998,
+          "cat": "placket"
+        },
+        {
+          "prob": 0.07636535912752151,
+          "last": true,
+          "cat": "voile"
+        }
+      ]
+    },
+    {
+      "productCode": "debb1top",
+      "data": [
+        {
+          "prob": 0.20197778940200806,
+          "cat": "velour, velours"
+        },
+        {
+          "prob": 0.17727281153202057,
+          "cat": "velveteen"
+        },
+        {
+          "prob": 0.09469429403543472,
+          "last": true,
+          "cat": "acetate rayon, acetate"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1002",
+      "data": [
+        {
+          "prob": 0.6741599440574646,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.10541181266307831,
+          "cat": "rayon"
+        },
+        {
+          "prob": 0.028300633653998375,
+          "last": true,
+          "cat": "acetate rayon, acetate"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1022",
+      "data": [
+        {
+          "prob": 0.20424267649650574,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.08622165024280548,
+          "cat": "fustian"
+        },
+        {
+          "prob": 0.08256948739290237,
+          "last": true,
+          "cat": "faille"
+        }
+      ]
+    },
+    {
+      "productCode": "N9333681",
+      "data": [
+        {
+          "prob": 0.22898797690868378,
+          "cat": "muslin"
+        },
+        {
+          "prob": 0.1516813337802887,
+          "cat": "rayon"
+        },
+        {
+          "prob": 0.10806582868099213,
+          "last": true,
+          "cat": "faille"
+        }
+      ]
+    },
+    {
+      "productCode": "N9333682",
+      "data": [
+        {
+          "prob": 0.44907331466674805,
+          "cat": "nylon"
+        },
+        {
+          "prob": 0.13232088088989258,
+          "cat": "chiffon"
+        },
+        {
+          "prob": 0.08739648014307022,
+          "last": true,
+          "cat": "organza"
+        }
+      ]
+    },
+    {
+      "productCode": "POMPOM",
+      "data": [
+        {
+          "prob": 0.423902690410614,
+          "cat": "gauze, netting, veiling"
+        },
+        {
+          "prob": 0.15881122648715973,
+          "cat": "voile"
+        },
+        {
+          "prob": 0.04597694054245949,
+          "last": true,
+          "cat": "georgette"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ414493",
+      "data": [
+        {
+          "prob": 0.29760706424713135,
+          "cat": "leatherette, imitation leather"
+        },
+        {
+          "prob": 0.20699270069599152,
+          "cat": "panting, trousering"
+        },
+        {
+          "prob": 0.12355419993400574,
+          "last": true,
+          "cat": "satin"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415878",
+      "data": [
+        {
+          "prob": 0.9463451504707336,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.013605748303234577,
+          "cat": "viscose rayon, viscose"
+        },
+        {
+          "prob": 0.012186115607619286,
+          "last": true,
+          "cat": "lame"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ418048",
+      "data": [
+        {
+          "prob": 0.8219648003578186,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.08772064745426178,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.03205493465065956,
+          "last": true,
+          "cat": "batiste"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ416468",
+      "data": [
+        {
+          "prob": 0.5065760612487793,
+          "cat": "satin"
+        },
+        {
+          "prob": 0.37155961990356445,
+          "cat": "taffeta"
+        },
+        {
+          "prob": 0.03702249005436897,
+          "last": true,
+          "cat": "jacquard"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC10667",
+      "data": [
+        {
+          "prob": 0.5369637608528137,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.13510838150978088,
+          "cat": "wool, woolen, woollen"
+        },
+        {
+          "prob": 0.09242647141218185,
+          "last": true,
+          "cat": "lame"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11085",
+      "data": [
+        {
+          "prob": 0.39214763045310974,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.3399374783039093,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.08965145796537399,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11087",
+      "data": [
+        {
+          "prob": 0.24331198632717133,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.17738263309001923,
+          "cat": "Bedford cord"
+        },
+        {
+          "prob": 0.16911207139492035,
+          "last": true,
+          "cat": "fustian"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11091",
+      "data": [
+        {
+          "prob": 0.7965648174285889,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.11717953532934189,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.016017574816942215,
+          "last": true,
+          "cat": "narrow wale"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11092",
+      "data": [
+        {
+          "prob": 0.21967844665050507,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.12675200402736664,
+          "cat": "fustian"
+        },
+        {
+          "prob": 0.06876663863658905,
+          "last": true,
+          "cat": "flannelette"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11093",
+      "data": [
+        {
+          "prob": 0.26211488246917725,
+          "cat": "tweed"
+        },
+        {
+          "prob": 0.1862129122018814,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.14131437242031097,
+          "last": true,
+          "cat": "Viyella"
+        }
+      ]
+    },
+    {
+      "productCode": "DD913215A",
+      "data": [
+        {
+          "prob": 0.19539649784564972,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.183633491396904,
+          "cat": "toweling, towelling"
+        },
+        {
+          "prob": 0.14527879655361176,
+          "last": true,
+          "cat": "narrow wale"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1009",
+      "data": [
+        {
+          "prob": 0.51466965675354,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.14075909554958344,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.07915788888931274,
+          "last": true,
+          "cat": "muslin"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1010",
+      "data": [
+        {
+          "prob": 0.5777713060379028,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.17979887127876282,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.0382179319858551,
+          "last": true,
+          "cat": "lame"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1011",
+      "data": [
+        {
+          "prob": 0.21368558704853058,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.1926458775997162,
+          "cat": "fustian"
+        },
+        {
+          "prob": 0.1014258936047554,
+          "last": true,
+          "cat": "narrow wale"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1012",
+      "data": [
+        {
+          "prob": 0.4492495059967041,
+          "cat": "lame"
+        },
+        {
+          "prob": 0.12909315526485443,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.11929252743721008,
+          "last": true,
+          "cat": "khadi, khaddar"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1013",
+      "data": [
+        {
+          "prob": 0.3490147590637207,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.12507003545761108,
+          "cat": "doeskin"
+        },
+        {
+          "prob": 0.09835338592529297,
+          "last": true,
+          "cat": "narrow wale"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1016",
+      "data": [
+        {
+          "prob": 0.4758000075817108,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.11715923994779587,
+          "cat": "doeskin"
+        },
+        {
+          "prob": 0.09862712025642395,
+          "last": true,
+          "cat": "yoke"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1017",
+      "data": [
+        {
+          "prob": 0.5282973051071167,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.2255786508321762,
+          "cat": "suede cloth, suede"
+        },
+        {
+          "prob": 0.05686996504664421,
+          "last": true,
+          "cat": "batiste"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1020",
+      "data": [
+        {
+          "prob": 0.3937607407569885,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.08008360117673874,
+          "cat": "shantung"
+        },
+        {
+          "prob": 0.06296642124652863,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1029",
+      "data": [
+        {
+          "prob": 0.8885572552680969,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.0502258762717247,
+          "cat": "fustian"
+        },
+        {
+          "prob": 0.020602043718099594,
+          "last": true,
+          "cat": "whipcord"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1030",
+      "data": [
+        {
+          "prob": 0.17236405611038208,
+          "cat": "lateen, lateen sail"
+        },
+        {
+          "prob": 0.11851544678211212,
+          "cat": "batiste"
+        },
+        {
+          "prob": 0.10423989593982697,
+          "last": true,
+          "cat": "drapery"
+        }
+      ]
+    },
+    {
+      "productCode": "MG10222",
+      "data": [
+        {
+          "prob": 0.43159219622612,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.16607923805713654,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.11105281114578247,
+          "last": true,
+          "cat": "narrow wale"
+        }
+      ]
+    },
+    {
+      "productCode": "tj415547",
+      "data": [
+        {
+          "prob": 0.2504135072231293,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.23940403759479523,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.10828392207622528,
+          "last": true,
+          "cat": "cambric"
+        }
+      ]
+    },
+    {
+      "productCode": "mg1005",
+      "data": [
+        {
+          "prob": 0.3686445951461792,
+          "cat": "Dacron, Terylene"
+        },
+        {
+          "prob": 0.14104683697223663,
+          "cat": "organdy, organdie"
+        },
+        {
+          "prob": 0.10543428361415863,
+          "last": true,
+          "cat": "cambric"
+        }
+      ]
+    },
+    {
+      "productCode": "mg1004",
+      "data": [
+        {
+          "prob": 0.34009215235710144,
+          "cat": "viscose rayon, viscose"
+        },
+        {
+          "prob": 0.30197229981422424,
+          "cat": "Dacron, Terylene"
+        },
+        {
+          "prob": 0.14442285895347595,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ514263D",
+      "data": [
+        {
+          "prob": 0.5579720735549927,
+          "cat": "drapery"
+        },
+        {
+          "prob": 0.4378153383731842,
+          "cat": "wire cloth"
+        },
+        {
+          "prob": 0.0021529572550207376,
+          "last": true,
+          "cat": "Dacron, Terylene"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ418175",
+      "data": [
+        {
+          "prob": 0.9498254060745239,
+          "cat": "lame"
+        },
+        {
+          "prob": 0.0206723865121603,
+          "cat": "drapery"
+        },
+        {
+          "prob": 0.01293315552175045,
+          "last": true,
+          "cat": "dust cover, dust sheet"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415935",
+      "data": [
+        {
+          "prob": 0.20161724090576172,
+          "cat": "khadi, khaddar"
+        },
+        {
+          "prob": 0.1669132113456726,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.09671616554260254,
+          "last": true,
+          "cat": "fustian"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415934",
+      "data": [
+        {
+          "prob": 0.24059610068798065,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.23579025268554688,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.15338292717933655,
+          "last": true,
+          "cat": "Bedford cord"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415933",
+      "data": [
+        {
+          "prob": 0.6647341251373291,
+          "cat": "lame"
+        },
+        {
+          "prob": 0.06153809651732445,
+          "cat": "foulard"
+        },
+        {
+          "prob": 0.05632125586271286,
+          "last": true,
+          "cat": "cashmere"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415932",
+      "data": [
+        {
+          "prob": 0.4817165434360504,
+          "cat": "Bedford cord"
+        },
+        {
+          "prob": 0.2639840841293335,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.040173012763261795,
+          "last": true,
+          "cat": "Viyella"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ4159322",
+      "data": [
+        {
+          "prob": 0.16588923335075378,
+          "cat": "fustian"
+        },
+        {
+          "prob": 0.16188886761665344,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.07534823566675186,
+          "last": true,
+          "cat": "camel's hair, camelhair"
+        }
+      ]
+    },
+    {
+      "productCode": "R9936295",
+      "data": [
+        {
+          "prob": 0.7541425824165344,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.06187894940376282,
+          "cat": "fustian"
+        },
+        {
+          "prob": 0.03904791176319122,
+          "last": true,
+          "cat": "whipcord"
+        }
+      ]
+    },
+    {
+      "productCode": "N9333569",
+      "data": [
+        {
+          "prob": 0.1946488916873932,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.1768217831850052,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.14167195558547974,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1920etek",
+      "data": [
+        {
+          "prob": 0.2861185669898987,
+          "cat": "gabardine"
+        },
+        {
+          "prob": 0.24210281670093536,
+          "cat": "panting, trousering"
+        },
+        {
+          "prob": 0.10749766230583191,
+          "last": true,
+          "cat": "narrow wale"
+        }
+      ]
+    },
+    {
+      "productCode": "OB810718",
+      "data": [
+        {
+          "prob": 0.2604789137840271,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.15520760416984558,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.12666860222816467,
+          "last": true,
+          "cat": "placket"
+        }
+      ]
+    },
+    {
+      "productCode": "OB801161",
+      "data": [
+        {
+          "prob": 0.6057165861129761,
+          "cat": "Bedford cord"
+        },
+        {
+          "prob": 0.3595775067806244,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.026174305006861687,
+          "last": true,
+          "cat": "permanent press, durable press"
+        }
+      ]
+    },
+    {
+      "productCode": "jacquard_skirt",
+      "data": [
+        {
+          "prob": 0.47638651728630066,
+          "cat": "hand towel, face towel"
+        },
+        {
+          "prob": 0.26164039969444275,
+          "cat": "dustcloth, dustrag, duster"
+        },
+        {
+          "prob": 0.06997351348400116,
+          "last": true,
+          "cat": "bath towel"
+        }
+      ]
+    },
+    {
+      "productCode": "OB8107183",
+      "data": [
+        {
+          "prob": 0.13237915933132172,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.0917070284485817,
+          "cat": "tweed"
+        },
+        {
+          "prob": 0.09048522263765335,
+          "last": true,
+          "cat": "broadcloth"
+        }
+      ]
+    },
+    {
+      "productCode": "OB820496",
+      "data": [
+        {
+          "prob": 0.3961247503757477,
+          "cat": "pinstripe"
+        },
+        {
+          "prob": 0.31477808952331543,
+          "cat": "sharkskin"
+        },
+        {
+          "prob": 0.22576966881752014,
+          "last": true,
+          "cat": "panting, trousering"
+        }
+      ]
+    },
+    {
+      "productCode": "OB829955",
+      "data": [
+        {
+          "prob": 0.6631484031677246,
+          "cat": "taffeta"
+        },
+        {
+          "prob": 0.1189795583486557,
+          "cat": "acetate rayon, acetate"
+        },
+        {
+          "prob": 0.061164818704128265,
+          "last": true,
+          "cat": "satin"
+        }
+      ]
+    },
+    {
+      "productCode": "OB831749",
+      "data": [
+        {
+          "prob": 0.9574930667877197,
+          "cat": "basket weave"
+        },
+        {
+          "prob": 0.01821257919073105,
+          "cat": "monk's cloth"
+        },
+        {
+          "prob": 0.008469708263874054,
+          "last": true,
+          "cat": "web"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ413279",
+      "data": [
+        {
+          "prob": 0.16518628597259521,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.15956443548202515,
+          "cat": "nylon"
+        },
+        {
+          "prob": 0.10004326701164246,
+          "last": true,
+          "cat": "cashmere"
+        }
+      ]
+    },
+    {
+      "productCode": "OB810718Tul",
+      "data": [
+        {
+          "prob": 0.29148009419441223,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.27875816822052,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.19410207867622375,
+          "last": true,
+          "cat": "rayon"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ41427091A",
+      "data": [
+        {
+          "prob": 0.21684134006500244,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.1542934626340866,
+          "cat": "sharkskin"
+        },
+        {
+          "prob": 0.1162993311882019,
+          "last": true,
+          "cat": "gabardine"
+        }
+      ]
+    },
+    {
+      "productCode": "bodycon4",
+      "data": [
+        {
+          "prob": 0.19519759714603424,
+          "cat": "cambric"
+        },
+        {
+          "prob": 0.1740119755268097,
+          "cat": "gauze, netting, veiling"
+        },
+        {
+          "prob": 0.1561184674501419,
+          "last": true,
+          "cat": "muslin"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1506",
+      "data": [
+        {
+          "prob": 0.35221627354621887,
+          "cat": "gabardine"
+        },
+        {
+          "prob": 0.1235162690281868,
+          "cat": "sharkskin"
+        },
+        {
+          "prob": 0.08805255591869354,
+          "last": true,
+          "cat": "faille"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1518",
+      "data": [
+        {
+          "prob": 0.6112799644470215,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.07542021572589874,
+          "cat": "lame"
+        },
+        {
+          "prob": 0.0447208508849144,
+          "last": true,
+          "cat": "fustian"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1537",
+      "data": [
+        {
+          "prob": 0.6351392865180969,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.17891722917556763,
+          "cat": "yoke"
+        },
+        {
+          "prob": 0.07383433729410172,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1560",
+      "data": [
+        {
+          "prob": 0.5242669582366943,
+          "cat": "brocade"
+        },
+        {
+          "prob": 0.18496544659137726,
+          "cat": "chintz"
+        },
+        {
+          "prob": 0.1394059658050537,
+          "last": true,
+          "cat": "damask"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1585",
+      "data": [
+        {
+          "prob": 0.7919467687606812,
+          "cat": "faille"
+        },
+        {
+          "prob": 0.09637439250946045,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.05673068016767502,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1594",
+      "data": [
+        {
+          "prob": 0.2506175637245178,
+          "cat": "crinoline"
+        },
+        {
+          "prob": 0.1530372053384781,
+          "cat": "organdy, organdie"
+        },
+        {
+          "prob": 0.12632815539836884,
+          "last": true,
+          "cat": "muslin"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1601",
+      "data": [
+        {
+          "prob": 0.34129706025123596,
+          "cat": "taffeta"
+        },
+        {
+          "prob": 0.161648690700531,
+          "cat": "voile"
+        },
+        {
+          "prob": 0.1235692948102951,
+          "last": true,
+          "cat": "faille"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1603",
+      "data": [
+        {
+          "prob": 0.6396949887275696,
+          "cat": "net, network, mesh, meshing, meshwork"
+        },
+        {
+          "prob": 0.17968657612800598,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.1549113392829895,
+          "last": true,
+          "cat": "ticking"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1604",
+      "data": [
+        {
+          "prob": 0.985281765460968,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.008736982941627502,
+          "cat": "gabardine"
+        },
+        {
+          "prob": 0.0011637472780421376,
+          "last": true,
+          "cat": "voile"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1608",
+      "data": [
+        {
+          "prob": 0.46018683910369873,
+          "cat": "drapery"
+        },
+        {
+          "prob": 0.12999360263347626,
+          "cat": "chiffon"
+        },
+        {
+          "prob": 0.11510306596755981,
+          "last": true,
+          "cat": "nylon"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1609",
+      "data": [
+        {
+          "prob": 0.38149294257164,
+          "cat": "velvet"
+        },
+        {
+          "prob": 0.21211016178131104,
+          "cat": "velveteen"
+        },
+        {
+          "prob": 0.08029776811599731,
+          "last": true,
+          "cat": "placket"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1622",
+      "data": [
+        {
+          "prob": 0.15651577711105347,
+          "cat": "faille"
+        },
+        {
+          "prob": 0.153586745262146,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.0848047062754631,
+          "last": true,
+          "cat": "nylon"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1628",
+      "data": [
+        {
+          "prob": 0.4092984199523926,
+          "cat": "faille"
+        },
+        {
+          "prob": 0.2629860043525696,
+          "cat": "voile"
+        },
+        {
+          "prob": 0.10008952021598816,
+          "last": true,
+          "cat": "taffeta"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1715",
+      "data": [
+        {
+          "prob": 0.2686578929424286,
+          "cat": "cashmere"
+        },
+        {
+          "prob": 0.15314103662967682,
+          "cat": "wool, woolen, woollen"
+        },
+        {
+          "prob": 0.11874338984489441,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1906",
+      "data": [
+        {
+          "prob": 0.29654815793037415,
+          "cat": "snood"
+        },
+        {
+          "prob": 0.1567523032426834,
+          "cat": "faille"
+        },
+        {
+          "prob": 0.1296326220035553,
+          "last": true,
+          "cat": "voile"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1922",
+      "data": [
+        {
+          "prob": 0.26422443985939026,
+          "cat": "velveteen"
+        },
+        {
+          "prob": 0.24712347984313965,
+          "cat": "velour, velours"
+        },
+        {
+          "prob": 0.09767116606235504,
+          "last": true,
+          "cat": "moleskin"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1936",
+      "data": [
+        {
+          "prob": 0.7056037187576294,
+          "cat": "brocade"
+        },
+        {
+          "prob": 0.1842709332704544,
+          "cat": "diamante"
+        },
+        {
+          "prob": 0.0451718345284462,
+          "last": true,
+          "cat": "lame"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2000",
+      "data": [
+        {
+          "prob": 0.36022236943244934,
+          "cat": "permanent press, durable press"
+        },
+        {
+          "prob": 0.11166641116142273,
+          "cat": "Orlon"
+        },
+        {
+          "prob": 0.10697048902511597,
+          "last": true,
+          "cat": "whipcord"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2031",
+      "data": [
+        {
+          "prob": 0.21075595915317535,
+          "cat": "gabardine"
+        },
+        {
+          "prob": 0.1920424997806549,
+          "cat": "sharkskin"
+        },
+        {
+          "prob": 0.11276866495609283,
+          "last": true,
+          "cat": "Orlon"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400321,
+      "data": [
+        {
+          "prob": 0.9418075084686279,
+          "cat": "jersey"
+        },
+        {
+          "prob": 0.03536130487918854,
+          "cat": "bib"
+        },
+        {
+          "prob": 0.009401158429682255,
+          "last": true,
+          "cat": "wash-and-wear"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ418364",
+      "data": [
+        {
+          "prob": 0.3337228298187256,
+          "cat": "foulard"
+        },
+        {
+          "prob": 0.2846132218837738,
+          "cat": "nylon"
+        },
+        {
+          "prob": 0.12567733228206635,
+          "last": true,
+          "cat": "rayon"
+        }
+      ]
+    },
+    {
+      "productCode": "OB8107182",
+      "data": [
+        {
+          "prob": 0.6686686277389526,
+          "cat": "drapery"
+        },
+        {
+          "prob": 0.20787174999713898,
+          "cat": "narrow wale"
+        },
+        {
+          "prob": 0.034537579864263535,
+          "last": true,
+          "cat": "fustian"
+        }
+      ]
+    }
+  ]

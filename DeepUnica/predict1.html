@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Deep Merchindiser</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/4-col-portfolio.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Unica Textile</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
+        aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Product Catalog
+                <span class="sr-only">(current)</span>
+              </a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Search by Image</a>
+          </li>
+          <!--<li class="nav-item">
+              <a class="nav-link" href="#">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>-->
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+
+    <!-- Page Heading -->
+    <h1 class="my-4">Price Prediction
+    </h1>
+<div class="row newitem">
+  <div class="col-lg-5 col-md-6 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" style="max-height: 450px" src="products/MG1020.jpg" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">          
+        </h4>
+        Product to be estimated
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-3 col-md-2 col-sm-6 portfolio-item">
+    <div class="card h-100">      
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Price Range</a>
+        </h4>
+        <p class="card-text">Minimum: 6.86 EUR</p>
+        <p class="card-text">Maximum: 10.86 EUR</p>
+        <p class="card-text">Avarage: 9.67 EUR</p>        
+      </div>
+    </div>
+  </div>
+    <div class="col-lg-2 col-md-2 col-sm-6 portfolio-item">
+    <div class="card h-100">      
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Category</a>
+        </h4>
+        <p class="card-text">XXX</p>
+        <p class="card-text">XXXX</p>
+        <p class="card-text">XXX</p>        
+      </div>
+    </div>
+  </div>
+    <div class="col-lg-2 col-md-2 col-sm-6 portfolio-item">
+    <div class="card h-100">      
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Fabric</a>
+        </h4>
+        <p class="card-text">XXX</p>
+        <p class="card-text">XXXX</p>
+        <p class="card-text">XXX</p>        
+      </div>
+    </div>
+  </div>
+</div>
+    <!-- Page Heading -->
+    <h1 class="my-4">Similar Items
+    </h1>
+
+
+    <div class="row catalog">
+
+
+    </div>
+    <!-- /.row -->
+
+
+
+  </div>
+  <!-- /.container -->
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Copyright &copy; Ayhan Ariciogullari 2018</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.js"></script>
+
+</body>
+<script id="entry-template" type="text/x-handlebars-template">
+  {{#each products}}
+  <div class="col-lg-2 col-md-2 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="#"><img class="card-img-top" src="products/{{ProductCode}}.jpg" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Model No: {{ProductCode}}</a>
+        </h4>
+        <p class="card-text">{{Price}} EUR</p>
+      </div>
+    </div>
+  </div>
+  {{/each}}
+</script>
+<script>
+  $(document).ready(function () {
+    console.log("ready!");
+    var title = 'a title';
+    var source = document.getElementById("entry-template").innerHTML;
+    var template = Handlebars.compile(source);
+
+    var context =
+      {
+        products: [
+          {
+            "ProductCode": "MG1017",
+            "Price": 9.95
+          },
+          {
+            "ProductCode": "MG1013",
+            "Price": 6.8
+          },
+          {
+            "ProductCode": "MG1010",
+            "Price": 10.86
+          },
+          {
+            "ProductCode": "MG1016",
+            "Price": 10.24
+          },
+          {
+            "ProductCode": "TJC11092",
+            "Price": 10.52
+          }
+        ]
+      };
+    var html = template(context);
+    $('.catalog').html(html);
+  });
+</script>
+
+</html>

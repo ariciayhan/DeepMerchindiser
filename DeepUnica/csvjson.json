@@ -1,0 +1,642 @@
+[
+  {
+    "ProductCode": 2017100520,
+    "Price": 5.35
+  },
+  {
+    "ProductCode": 2017100780,
+    "Price": 5.2
+  },
+  {
+    "ProductCode": 2017100781,
+    "Price": 8.95
+  },
+  {
+    "ProductCode": 2017100784,
+    "Price": 12.7
+  },
+  {
+    "ProductCode": 20172500910,
+    "Price": 4.45
+  },
+  {
+    "ProductCode": "CamoEmbossedTee",
+    "Price": 7.4
+  },
+  {
+    "ProductCode": "MilanoSweatDIF",
+    "Price": 8.95
+  },
+  {
+    "ProductCode": "NavyCamoKangrooHoodie",
+    "Price": 15.5
+  },
+  {
+    "ProductCode": "NavyCamoCrewNeckSweat",
+    "Price": 13
+  },
+  {
+    "ProductCode": "CamoEmbossedTee2",
+    "Price": 7.4
+  },
+  {
+    "ProductCode": 20174003012,
+    "Price": 15.7
+  },
+  {
+    "ProductCode": 2017400321,
+    "Price": 4.95
+  },
+  {
+    "ProductCode": 2017400322,
+    "Price": 4.95
+  },
+  {
+    "ProductCode": 2017400323,
+    "Price": 4.95
+  },
+  {
+    "ProductCode": 2017400324,
+    "Price": 5.35
+  },
+  {
+    "ProductCode": 2017400308,
+    "Price": 12
+  },
+  {
+    "ProductCode": 2017400309,
+    "Price": 12.5
+  },
+  {
+    "ProductCode": 2017400310,
+    "Price": 17
+  },
+  {
+    "ProductCode": 2017400314,
+    "Price": 17.95
+  },
+  {
+    "ProductCode": "DD1679",
+    "Price": 4.1
+  },
+  {
+    "ProductCode": "andre",
+    "Price": 7.93
+  },
+  {
+    "ProductCode": "dd1531",
+    "Price": 9.5
+  },
+  {
+    "ProductCode": "caua",
+    "Price": 8.2
+  },
+  {
+    "ProductCode": "danilo",
+    "Price": 7.47
+  },
+  {
+    "ProductCode": "interlokpolo",
+    "Price": 9.42
+  },
+  {
+    "ProductCode": "EAFTS01BK",
+    "Price": 5.08
+  },
+  {
+    "ProductCode": "DURFY2",
+    "Price": 7.02
+  },
+  {
+    "ProductCode": "Romper6",
+    "Price": 6.95
+  },
+  {
+    "ProductCode": "DD2052Femme",
+    "Price": 2.95
+  },
+  {
+    "ProductCode": "DD2343UM336",
+    "Price": 4
+  },
+  {
+    "ProductCode": "DD2325",
+    "Price": 4.8
+  },
+  {
+    "ProductCode": "DD2324",
+    "Price": 5.9
+  },
+  {
+    "ProductCode": "DD2322",
+    "Price": 5.95
+  },
+  {
+    "ProductCode": "DD2306",
+    "Price": 6.95
+  },
+  {
+    "ProductCode": "DD2302",
+    "Price": 6.3
+  },
+  {
+    "ProductCode": "DD2301",
+    "Price": 4.3
+  },
+  {
+    "ProductCode": "DD2296",
+    "Price": 6.5
+  },
+  {
+    "ProductCode": "DD2291",
+    "Price": 7.15
+  },
+  {
+    "ProductCode": "DD2285",
+    "Price": 7.95
+  },
+  {
+    "ProductCode": "DD2277",
+    "Price": 4.15
+  },
+  {
+    "ProductCode": "TO001",
+    "Price": 5.05
+  },
+  {
+    "ProductCode": "LP4002",
+    "Price": 6.65
+  },
+  {
+    "ProductCode": "DD2092",
+    "Price": 4.95
+  },
+  {
+    "ProductCode": "DD1658",
+    "Price": 5.4
+  },
+  {
+    "ProductCode": "DD1961",
+    "Price": 5.6
+  },
+  {
+    "ProductCode": "DD1934",
+    "Price": 2.9
+  },
+  {
+    "ProductCode": "DD1669",
+    "Price": 5.7
+  },
+  {
+    "ProductCode": "DD1735",
+    "Price": 4.7
+  },
+  {
+    "ProductCode": "DD1788",
+    "Price": 4.8
+  },
+  {
+    "ProductCode": "DD1894",
+    "Price": 4.95
+  },
+  {
+    "ProductCode": "DD2052",
+    "Price": 3.4
+  },
+  {
+    "ProductCode": "TJ413286",
+    "Price": 5.7
+  },
+  {
+    "ProductCode": "TJ414269",
+    "Price": 2.9
+  },
+  {
+    "ProductCode": "TJ416186",
+    "Price": 2.95
+  },
+  {
+    "ProductCode": "DD1901",
+    "Price": 4.8
+  },
+  {
+    "ProductCode": "DD1917",
+    "Price": 3
+  },
+  {
+    "ProductCode": "O1554",
+    "Price": 6.7
+  },
+  {
+    "ProductCode": "DD1623",
+    "Price": 9.9
+  },
+  {
+    "ProductCode": "DD1879",
+    "Price": 7
+  },
+  {
+    "ProductCode": "DD1881",
+    "Price": 6.9
+  },
+  {
+    "ProductCode": "DD1889",
+    "Price": 7.7
+  },
+  {
+    "ProductCode": "DD1920",
+    "Price": 5.95
+  },
+  {
+    "ProductCode": "DD1921",
+    "Price": 7.8
+  },
+  {
+    "ProductCode": "DD1948",
+    "Price": 12
+  },
+  {
+    "ProductCode": "dd2015",
+    "Price": 7.95
+  },
+  {
+    "ProductCode": "dd2017",
+    "Price": 4.35
+  },
+  {
+    "ProductCode": "DD2031",
+    "Price": 8.9
+  },
+  {
+    "ProductCode": "TP935",
+    "Price": 6.4
+  },
+  {
+    "ProductCode": "DD2350",
+    "Price": 3.85
+  },
+  {
+    "ProductCode": "DD2349",
+    "Price": 3.85
+  },
+  {
+    "ProductCode": "kldn27",
+    "Price": 4.4
+  },
+  {
+    "ProductCode": "KG428",
+    "Price": 3.75
+  },
+  {
+    "ProductCode": "od608",
+    "Price": 3.85
+  },
+  {
+    "ProductCode": "j001",
+    "Price": 6.95
+  },
+  {
+    "ProductCode": "j031",
+    "Price": 6.55
+  },
+  {
+    "ProductCode": "TW421CA3X",
+    "Price": 7.8
+  },
+  {
+    "ProductCode": "TW4FW17",
+    "Price": 9.55
+  },
+  {
+    "ProductCode": "ZALTT1002",
+    "Price": 8.99
+  },
+  {
+    "ProductCode": "ZALEO003",
+    "Price": 6.95
+  },
+  {
+    "ProductCode": "ZALTT1003",
+    "Price": 6.85
+  },
+  {
+    "ProductCode": "DD1815",
+    "Price": 8.52
+  },
+  {
+    "ProductCode": "dd2210",
+    "Price": 10.81
+  },
+  {
+    "ProductCode": "dd2083",
+    "Price": 8.46
+  },
+  {
+    "ProductCode": "dd913215",
+    "Price": 12.52
+  },
+  {
+    "ProductCode": "debb1top",
+    "Price": 9.66
+  },
+  {
+    "ProductCode": "MG1002",
+    "Price": 9.09
+  },
+  {
+    "ProductCode": "MG1022",
+    "Price": 8.75
+  },
+  {
+    "ProductCode": "N9333681",
+    "Price": 5.32
+  },
+  {
+    "ProductCode": "N9333682",
+    "Price": 4.8
+  },
+  {
+    "ProductCode": "POMPOM",
+    "Price": 8.56
+  },
+  {
+    "ProductCode": "TJ414493",
+    "Price": 7.72
+  },
+  {
+    "ProductCode": "TJ415878",
+    "Price": 7.29
+  },
+  {
+    "ProductCode": "TJ416468",
+    "Price": 5.55
+  },
+  {
+    "ProductCode": "TJ418048",
+    "Price": 9.37
+  },
+  {
+    "ProductCode": "TJ418364",
+    "Price": 9.38
+  },
+  {
+    "ProductCode": "TJC10667",
+    "Price": 7.95
+  },
+  {
+    "ProductCode": "TJC11085",
+    "Price": 7.32
+  },
+  {
+    "ProductCode": "TJC11087",
+    "Price": 8.92
+  },
+  {
+    "ProductCode": "TJC11091",
+    "Price": 7.95
+  },
+  {
+    "ProductCode": "TJC11092",
+    "Price": 10.52
+  },
+  {
+    "ProductCode": "TJC11093",
+    "Price": 10.24
+  },
+  {
+    "ProductCode": "DD913215A",
+    "Price": 10.24
+  },
+  {
+    "ProductCode": "MG1009",
+    "Price": 9.49
+  },
+  {
+    "ProductCode": "MG1010",
+    "Price": 10.86
+  },
+  {
+    "ProductCode": "MG1011",
+    "Price": 8.81
+  },
+  {
+    "ProductCode": "MG1012",
+    "Price": 11.21
+  },
+  {
+    "ProductCode": "MG1013",
+    "Price": 6.8
+  },
+  {
+    "ProductCode": "MG1016",
+    "Price": 10.24
+  },
+  {
+    "ProductCode": "MG1017",
+    "Price": 9.95
+  },
+  {
+    "ProductCode": "MG1020",
+    "Price": 9.49
+  },
+  {
+    "ProductCode": "MG1029",
+    "Price": 7.78
+  },
+  {
+    "ProductCode": "MG1030",
+    "Price": 9.09
+  },
+  {
+    "ProductCode": "MG10222",
+    "Price": 19.39
+  },
+  {
+    "ProductCode": "tj415547",
+    "Price": 11.21
+  },
+  {
+    "ProductCode": "mg1005",
+    "Price": 8.52
+  },
+  {
+    "ProductCode": "mg1004",
+    "Price": 11.38
+  },
+  {
+    "ProductCode": "TJ514263D",
+    "Price": 9.64
+  },
+  {
+    "ProductCode": "TJ418175",
+    "Price": 7.95
+  },
+  {
+    "ProductCode": "TJ415935",
+    "Price": 13.67
+  },
+  {
+    "ProductCode": "TJ415934",
+    "Price": 5.66
+  },
+  {
+    "ProductCode": "TJ415933",
+    "Price": 8.46
+  },
+  {
+    "ProductCode": "TJ415932",
+    "Price": 6.8
+  },
+  {
+    "ProductCode": "TJ4159322",
+    "Price": 8.63
+  },
+  {
+    "ProductCode": "R9936295",
+    "Price": 10.24
+  },
+  {
+    "ProductCode": "N9333569",
+    "Price": 9.38
+  },
+  {
+    "ProductCode": "dd1920etek",
+    "Price": 5.65
+  },
+  {
+    "ProductCode": "OB810718",
+    "Price": 5.65
+  },
+  {
+    "ProductCode": "OB801161",
+    "Price": 5.53
+  },
+  {
+    "ProductCode": "OB8107182",
+    "Price": 5.93
+  },
+  {
+    "ProductCode": "jacquard_skirt",
+    "Price": 5.53
+  },
+  {
+    "ProductCode": "OB8107183",
+    "Price": 7.27
+  },
+  {
+    "ProductCode": "OB820496",
+    "Price": 5.93
+  },
+  {
+    "ProductCode": "OB829955",
+    "Price": 6.87
+  },
+  {
+    "ProductCode": "OB831749",
+    "Price": 5.65
+  },
+  {
+    "ProductCode": "TJ413279",
+    "Price": 7.27
+  },
+  {
+    "ProductCode": "OB810718Tul",
+    "Price": 4.84
+  },
+  {
+    "ProductCode": "TJ41427091A",
+    "Price": 8.9
+  },
+  {
+    "ProductCode": "bodycon4",
+    "Price": 7.88
+  },
+  {
+    "ProductCode": "dd1506",
+    "Price": 8.09
+  },
+  {
+    "ProductCode": "dd1518",
+    "Price": 6.01
+  },
+  {
+    "ProductCode": "dd1537",
+    "Price": 6.46
+  },
+  {
+    "ProductCode": "dd1560",
+    "Price": 8.05
+  },
+  {
+    "ProductCode": "dd1561",
+    "Price": 7.27
+  },
+  {
+    "ProductCode": "dd1585",
+    "Price": 5.28
+  },
+  {
+    "ProductCode": "dd1594",
+    "Price": 8.41
+  },
+  {
+    "ProductCode": "dd1601",
+    "Price": 4.84
+  },
+  {
+    "ProductCode": "dd1603",
+    "Price": 5.65
+  },
+  {
+    "ProductCode": "dd1604",
+    "Price": 4.02
+  },
+  {
+    "ProductCode": "dd1608",
+    "Price": 9.71
+  },
+  {
+    "ProductCode": "dd1609",
+    "Price": 7.27
+  },
+  {
+    "ProductCode": "dd1612",
+    "Price": 6.34
+  },
+  {
+    "ProductCode": "dd1622",
+    "Price": 6.46
+  },
+  {
+    "ProductCode": "dd1628",
+    "Price": 6.46
+  },
+  {
+    "ProductCode": "dd1697",
+    "Price": 4.84
+  },
+  {
+    "ProductCode": "dd1715",
+    "Price": 6.1
+  },
+  {
+    "ProductCode": "dd1906",
+    "Price": 7.03
+  },
+  {
+    "ProductCode": "dd1922",
+    "Price": 9.31
+  },
+  {
+    "ProductCode": "dd1936",
+    "Price": 7.27
+  },
+  {
+    "ProductCode": "dd2000",
+    "Price": 4.19
+  },
+  {
+    "ProductCode": "dd2031",
+    "Price": 13.78
+  }
+]

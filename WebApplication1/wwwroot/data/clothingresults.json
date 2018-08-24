@@ -1,0 +1,2756 @@
+[
+    {
+      "productCode": 2017100780,
+      "data": [
+        {
+          "prob": 0.7838975191116333,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.09356804192066193,
+          "cat": "sportswear, athletic wear, activewear"
+        },
+        {
+          "prob": 0.05813951417803764,
+          "last": true,
+          "cat": "shirt"
+        }
+      ]
+    },
+    {
+      "productCode": 2017100520,
+      "data": [
+        {
+          "prob": 0.7801617980003357,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.1137980967760086,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.04621483385562897,
+          "last": true,
+          "cat": "polo shirt, sport shirt"
+        }
+      ]
+    },
+    {
+      "productCode": 2017100781,
+      "data": [
+        {
+          "prob": 0.5619329810142517,
+          "cat": "foul-weather gear"
+        },
+        {
+          "prob": 0.1997155100107193,
+          "cat": "parka, windbreaker, windcheater, anorak"
+        },
+        {
+          "prob": 0.10898596793413162,
+          "last": true,
+          "cat": "jacket"
+        }
+      ]
+    },
+    {
+      "productCode": 2017100784,
+      "data": [
+        {
+          "prob": 0.77388596534729,
+          "cat": "foul-weather gear"
+        },
+        {
+          "prob": 0.15540994703769684,
+          "cat": "mess jacket, monkey jacket, shell jacket"
+        },
+        {
+          "prob": 0.05536389350891113,
+          "last": true,
+          "cat": "parka, windbreaker, windcheater, anorak"
+        }
+      ]
+    },
+    {
+      "productCode": 20172500910,
+      "data": [
+        {
+          "prob": 0.9912448525428772,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.003947854973375797,
+          "cat": "sportswear, athletic wear, activewear"
+        },
+        {
+          "prob": 0.0033907198812812567,
+          "last": true,
+          "cat": "work-shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "CamoEmbossedTee",
+      "data": [
+        {
+          "prob": 0.9858853816986084,
+          "cat": "battle dress"
+        },
+        {
+          "prob": 0.014114601537585258,
+          "cat": "fatigues"
+        },
+        {
+          "prob": 2.11443640374398e-9,
+          "last": true,
+          "cat": "dress uniform"
+        }
+      ]
+    },
+    {
+      "productCode": "NavyCamoKangrooHoodie",
+      "data": [
+        {
+          "prob": 0.5590501427650452,
+          "cat": "parka, windbreaker, windcheater, anorak"
+        },
+        {
+          "prob": 0.2656380832195282,
+          "cat": "mess jacket, monkey jacket, shell jacket"
+        },
+        {
+          "prob": 0.05581953376531601,
+          "last": true,
+          "cat": "hood"
+        }
+      ]
+    },
+    {
+      "productCode": 20174003012,
+      "data": [
+        {
+          "prob": 0.6867789030075073,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.060661423951387405,
+          "cat": "coat"
+        },
+        {
+          "prob": 0.05573287606239319,
+          "last": true,
+          "cat": "sweater, jumper"
+        }
+      ]
+    },
+    {
+      "productCode": "CamoEmbossedTee2",
+      "data": [
+        {
+          "prob": 0.7626509666442871,
+          "cat": "black"
+        },
+        {
+          "prob": 0.1312747448682785,
+          "cat": "maillot"
+        },
+        {
+          "prob": 0.056771453469991684,
+          "last": true,
+          "cat": "sweat suit, sweatsuit, sweats, workout suit"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400321,
+      "data": [
+        {
+          "prob": 0.9948742985725403,
+          "cat": "romper, romper suit"
+        },
+        {
+          "prob": 0.005125507712364197,
+          "cat": "singlet, vest, undershirt"
+        },
+        {
+          "prob": 1.9265429784809385e-7,
+          "last": true,
+          "cat": "jumper, pinafore, pinny"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400322,
+      "data": [
+        {
+          "prob": 0.43993934988975525,
+          "cat": "outerwear, overclothes"
+        },
+        {
+          "prob": 0.14421884715557098,
+          "cat": "sweatshirt"
+        },
+        {
+          "prob": 0.12617245316505432,
+          "last": true,
+          "cat": "sweat suit, sweatsuit, sweats, workout suit"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400323,
+      "data": [
+        {
+          "prob": 0.9898019433021545,
+          "cat": "polo shirt, sport shirt"
+        },
+        {
+          "prob": 0.006714198272675276,
+          "cat": "sportswear, athletic wear, activewear"
+        },
+        {
+          "prob": 0.002943904371932149,
+          "last": true,
+          "cat": "jersey, T-shirt, tee shirt"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400324,
+      "data": [
+        {
+          "prob": 0.45026764273643494,
+          "cat": "sweat pants, sweatpants"
+        },
+        {
+          "prob": 0.2822231650352478,
+          "cat": "overall"
+        },
+        {
+          "prob": 0.08985981345176697,
+          "last": true,
+          "cat": "sweat suit, sweatsuit, sweats, workout suit"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400308,
+      "data": [
+        {
+          "prob": 0.9067729115486145,
+          "cat": "sportswear, athletic wear, activewear"
+        },
+        {
+          "prob": 0.03499835729598999,
+          "cat": "mess jacket, monkey jacket, shell jacket"
+        },
+        {
+          "prob": 0.020165828987956047,
+          "last": true,
+          "cat": "bomber jacket"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400309,
+      "data": [
+        {
+          "prob": 0.4881725609302521,
+          "cat": "sweat suit, sweatsuit, sweats, workout suit"
+        },
+        {
+          "prob": 0.24787510931491852,
+          "cat": "sportswear, athletic wear, activewear"
+        },
+        {
+          "prob": 0.0877838209271431,
+          "last": true,
+          "cat": "mess jacket, monkey jacket, shell jacket"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400310,
+      "data": [
+        {
+          "prob": 0.8195634484291077,
+          "cat": "bomber jacket"
+        },
+        {
+          "prob": 0.12401295453310013,
+          "cat": "jacket"
+        },
+        {
+          "prob": 0.022791631519794464,
+          "last": true,
+          "cat": "sportswear, athletic wear, activewear"
+        }
+      ]
+    },
+    {
+      "productCode": 2017400314,
+      "data": [
+        {
+          "prob": 0.960303783416748,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.011234275065362453,
+          "cat": "blue"
+        },
+        {
+          "prob": 0.007913184352219105,
+          "last": true,
+          "cat": "parka, windbreaker, windcheater, anorak"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1679",
+      "data": [
+        {
+          "prob": 0.9999845027923584,
+          "cat": "bolero"
+        },
+        {
+          "prob": 0.000013580430277215783,
+          "cat": "bodice"
+        },
+        {
+          "prob": 0.0000014945846942282515,
+          "last": true,
+          "cat": "garment"
+        }
+      ]
+    },
+    {
+      "productCode": "andre",
+      "data": [
+        {
+          "prob": 0.8006564378738403,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.12322007119655609,
+          "cat": "polo shirt, sport shirt"
+        },
+        {
+          "prob": 0.06769169121980667,
+          "last": true,
+          "cat": "work-shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1531",
+      "data": [
+        {
+          "prob": 0.9281067252159119,
+          "cat": "mess jacket, monkey jacket, shell jacket"
+        },
+        {
+          "prob": 0.02845374122262001,
+          "cat": "parka, windbreaker, windcheater, anorak"
+        },
+        {
+          "prob": 0.027562744915485382,
+          "last": true,
+          "cat": "overgarment, outer garment"
+        }
+      ]
+    },
+    {
+      "productCode": "caua",
+      "data": [
+        {
+          "prob": 0.4339022636413574,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.25341466069221497,
+          "cat": "street clothes"
+        },
+        {
+          "prob": 0.2151223123073578,
+          "last": true,
+          "cat": "attire, garb, dress"
+        }
+      ]
+    },
+    {
+      "productCode": "danilo",
+      "data": [
+        {
+          "prob": 0.9810978174209595,
+          "cat": "polo shirt, sport shirt"
+        },
+        {
+          "prob": 0.017941316589713097,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.0002656355791259557,
+          "last": true,
+          "cat": "blouse"
+        }
+      ]
+    },
+    {
+      "productCode": "interlokpolo",
+      "data": [
+        {
+          "prob": 1,
+          "cat": "polo shirt, sport shirt"
+        },
+        {
+          "prob": 2.8784834515960256e-9,
+          "cat": "man's clothing"
+        },
+        {
+          "prob": 5.874600805810815e-10,
+          "last": true,
+          "cat": "sportswear, athletic wear, activewear"
+        }
+      ]
+    },
+    {
+      "productCode": "EAFTS01BK",
+      "data": [
+        {
+          "prob": 0.7791898846626282,
+          "cat": "black"
+        },
+        {
+          "prob": 0.11925356835126877,
+          "cat": "coat"
+        },
+        {
+          "prob": 0.0354965403676033,
+          "last": true,
+          "cat": "garment"
+        }
+      ]
+    },
+    {
+      "productCode": "DURFY2",
+      "data": [
+        {
+          "prob": 0.9422573447227478,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.03358198702335358,
+          "cat": "khimar"
+        },
+        {
+          "prob": 0.008710210211575031,
+          "last": true,
+          "cat": "burqa, burka"
+        }
+      ]
+    },
+    {
+      "productCode": "Romper6",
+      "data": [
+        {
+          "prob": 0.8702639937400818,
+          "cat": "chemise, shimmy, shift, slip, teddy"
+        },
+        {
+          "prob": 0.0424279049038887,
+          "cat": "nightwear, sleepwear, nightclothes"
+        },
+        {
+          "prob": 0.041954003274440765,
+          "last": true,
+          "cat": "camisole"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2343UM336",
+      "data": [
+        {
+          "prob": 0.5256177186965942,
+          "cat": "cords, corduroys"
+        },
+        {
+          "prob": 0.11751303821802139,
+          "cat": "camisole, underbodice"
+        },
+        {
+          "prob": 0.1073838621377945,
+          "last": true,
+          "cat": "garment"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2325",
+      "data": [
+        {
+          "prob": 0.9840487241744995,
+          "cat": "neckpiece"
+        },
+        {
+          "prob": 0.008637803606688976,
+          "cat": "lingerie, intimate apparel"
+        },
+        {
+          "prob": 0.005053091794252396,
+          "last": true,
+          "cat": "thong"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2324",
+      "data": [
+        {
+          "prob": 0.9876032471656799,
+          "cat": "underwear, underclothes, underclothing"
+        },
+        {
+          "prob": 0.01195431873202324,
+          "cat": "undergarment, unmentionable"
+        },
+        {
+          "prob": 0.00025073092547245324,
+          "last": true,
+          "cat": "lingerie, intimate apparel"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2322",
+      "data": [
+        {
+          "prob": 0.665817379951477,
+          "cat": "dinner dress, dinner gown, formal, evening gown"
+        },
+        {
+          "prob": 0.2934519350528717,
+          "cat": "cocktail dress, sheath"
+        },
+        {
+          "prob": 0.01401467528194189,
+          "last": true,
+          "cat": "dressing gown, robe-de-chambre, lounging robe"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2306",
+      "data": [
+        {
+          "prob": 0.9704420566558838,
+          "cat": "neckerchief"
+        },
+        {
+          "prob": 0.02008678950369358,
+          "cat": "scarf"
+        },
+        {
+          "prob": 0.008103854954242706,
+          "last": true,
+          "cat": "shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2302",
+      "data": [
+        {
+          "prob": 0.8598471879959106,
+          "cat": "pullover, slipover"
+        },
+        {
+          "prob": 0.12466438114643097,
+          "cat": "sweater, jumper"
+        },
+        {
+          "prob": 0.009726160205900669,
+          "last": true,
+          "cat": "raglan"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2301",
+      "data": [
+        {
+          "prob": 0.6350134611129761,
+          "cat": "camisole, underbodice"
+        },
+        {
+          "prob": 0.3621380627155304,
+          "cat": "camisole"
+        },
+        {
+          "prob": 0.002695216331630945,
+          "last": true,
+          "cat": "chemise, shimmy, shift, slip, teddy"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2296",
+      "data": [
+        {
+          "prob": 0.6373343467712402,
+          "cat": "neckpiece"
+        },
+        {
+          "prob": 0.1628890037536621,
+          "cat": "neckerchief"
+        },
+        {
+          "prob": 0.06220455840229988,
+          "last": true,
+          "cat": "clothing, article of clothing, vesture, wear, wearable, habiliment"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2291",
+      "data": [
+        {
+          "prob": 0.8998746275901794,
+          "cat": "polo shirt, sport shirt"
+        },
+        {
+          "prob": 0.05235361307859421,
+          "cat": "sportswear, athletic wear, activewear"
+        },
+        {
+          "prob": 0.021619154140353203,
+          "last": true,
+          "cat": "grey, gray"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2277",
+      "data": [
+        {
+          "prob": 0.42331022024154663,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.2760499119758606,
+          "cat": "bodice"
+        },
+        {
+          "prob": 0.12005140632390976,
+          "last": true,
+          "cat": "corset, girdle, stays"
+        }
+      ]
+    },
+    {
+      "productCode": "TO001",
+      "data": [
+        {
+          "prob": 0.9141756892204285,
+          "cat": "miniskirt, mini"
+        },
+        {
+          "prob": 0.08574166148900986,
+          "cat": "skirt"
+        },
+        {
+          "prob": 0.00005593148307525553,
+          "last": true,
+          "cat": "clothing, article of clothing, vesture, wear, wearable, habiliment"
+        }
+      ]
+    },
+    {
+      "productCode": "LP4002",
+      "data": [
+        {
+          "prob": 0.7814570665359497,
+          "cat": "swimming trunks, bathing trunks"
+        },
+        {
+          "prob": 0.16962197422981262,
+          "cat": "briefs, Jockey shorts"
+        },
+        {
+          "prob": 0.046480897814035416,
+          "last": true,
+          "cat": "drawers, underdrawers, shorts, boxers, boxershorts"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2092",
+      "data": [
+        {
+          "prob": 0.9490642547607422,
+          "cat": "grey, gray"
+        },
+        {
+          "prob": 0.03895804286003113,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.004442421719431877,
+          "last": true,
+          "cat": "shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1658",
+      "data": [
+        {
+          "prob": 0.4001109302043915,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.323620080947876,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.26572123169898987,
+          "last": true,
+          "cat": "grey, gray"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1961",
+      "data": [
+        {
+          "prob": 0.44856539368629456,
+          "cat": "stole"
+        },
+        {
+          "prob": 0.43688422441482544,
+          "cat": "collar"
+        },
+        {
+          "prob": 0.04763944074511528,
+          "last": true,
+          "cat": "neckerchief"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1934",
+      "data": [
+        {
+          "prob": 0.5068972706794739,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.49276572465896606,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.00030073951347731054,
+          "last": true,
+          "cat": "garment"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1669",
+      "data": [
+        {
+          "prob": 0.31655967235565186,
+          "cat": "cardigan"
+        },
+        {
+          "prob": 0.2551811635494232,
+          "cat": "sweater, jumper"
+        },
+        {
+          "prob": 0.21427182853221893,
+          "last": true,
+          "cat": "knitwear"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1735",
+      "data": [
+        {
+          "prob": 0.5555332899093628,
+          "cat": "blouse"
+        },
+        {
+          "prob": 0.34273818135261536,
+          "cat": "knitwear"
+        },
+        {
+          "prob": 0.03970934823155403,
+          "last": true,
+          "cat": "garment"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1788",
+      "data": [
+        {
+          "prob": 0.9068233966827393,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.03378836810588837,
+          "cat": "woman's clothing"
+        },
+        {
+          "prob": 0.017450446262955666,
+          "last": true,
+          "cat": "cloak"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1894",
+      "data": [
+        {
+          "prob": 0.2689478397369385,
+          "cat": "coat"
+        },
+        {
+          "prob": 0.17775213718414307,
+          "cat": "dress uniform"
+        },
+        {
+          "prob": 0.13189250230789185,
+          "last": true,
+          "cat": "greatcoat, overcoat, topcoat"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2052",
+      "data": [
+        {
+          "prob": 0.9080823659896851,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.0901971161365509,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.0009411261999048293,
+          "last": true,
+          "cat": "woman's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ413286",
+      "data": [
+        {
+          "prob": 0.7724992632865906,
+          "cat": "undies"
+        },
+        {
+          "prob": 0.165639728307724,
+          "cat": "underwear, underclothes, underclothing"
+        },
+        {
+          "prob": 0.05029028281569481,
+          "last": true,
+          "cat": "bloomers, pants, drawers, knickers"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ414269",
+      "data": [
+        {
+          "prob": 0.9994379878044128,
+          "cat": "polo shirt, sport shirt"
+        },
+        {
+          "prob": 0.0003283049154561013,
+          "cat": "black"
+        },
+        {
+          "prob": 0.00021641266357619315,
+          "last": true,
+          "cat": "jersey, T-shirt, tee shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ416186",
+      "data": [
+        {
+          "prob": 0.805984616279602,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.19157984852790833,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.00208715139888227,
+          "last": true,
+          "cat": "black"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1901",
+      "data": [
+        {
+          "prob": 0.43940335512161255,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.18903982639312744,
+          "cat": "separate"
+        },
+        {
+          "prob": 0.1523614376783371,
+          "last": true,
+          "cat": "bolero"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1917",
+      "data": [
+        {
+          "prob": 0.9977381229400635,
+          "cat": "brassiere, bra, bandeau"
+        },
+        {
+          "prob": 0.001764129614457488,
+          "cat": "undergarment, unmentionable"
+        },
+        {
+          "prob": 0.00047515693586319685,
+          "last": true,
+          "cat": "uplift"
+        }
+      ]
+    },
+    {
+      "productCode": "O1554",
+      "data": [
+        {
+          "prob": 0.3501709997653961,
+          "cat": "panty girdle"
+        },
+        {
+          "prob": 0.1971585750579834,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.08701436966657639,
+          "last": true,
+          "cat": "cocktail dress, sheath"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1623",
+      "data": [
+        {
+          "prob": 0.9652087688446045,
+          "cat": "camisole, underbodice"
+        },
+        {
+          "prob": 0.02730342000722885,
+          "cat": "camisole"
+        },
+        {
+          "prob": 0.004907086957246065,
+          "last": true,
+          "cat": "knitwear"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1879",
+      "data": [
+        {
+          "prob": 0.8805549144744873,
+          "cat": "pullover, slipover"
+        },
+        {
+          "prob": 0.05846690386533737,
+          "cat": "sweater, jumper"
+        },
+        {
+          "prob": 0.03823595494031906,
+          "last": true,
+          "cat": "knitwear"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1881",
+      "data": [
+        {
+          "prob": 0.9867388010025024,
+          "cat": "black"
+        },
+        {
+          "prob": 0.0043706875294446945,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.0019313226221129298,
+          "last": true,
+          "cat": "clothing, article of clothing, vesture, wear, wearable, habiliment"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1889",
+      "data": [
+        {
+          "prob": 0.3809363842010498,
+          "cat": "bolero"
+        },
+        {
+          "prob": 0.10774068534374237,
+          "cat": "black"
+        },
+        {
+          "prob": 0.08704038709402084,
+          "last": true,
+          "cat": "negligee, neglige, peignoir, wrapper, housecoat"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1920",
+      "data": [
+        {
+          "prob": 0.27630048990249634,
+          "cat": "coat"
+        },
+        {
+          "prob": 0.21512393653392792,
+          "cat": "jacket"
+        },
+        {
+          "prob": 0.15411412715911865,
+          "last": true,
+          "cat": "overgarment, outer garment"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1921",
+      "data": [
+        {
+          "prob": 0.32746222615242004,
+          "cat": "cords, corduroys"
+        },
+        {
+          "prob": 0.27746549248695374,
+          "cat": "bellbottom trousers, bell-bottoms, bellbottom pants"
+        },
+        {
+          "prob": 0.2174120545387268,
+          "last": true,
+          "cat": "trouser"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1948",
+      "data": [
+        {
+          "prob": 0.3673112392425537,
+          "cat": "raglan"
+        },
+        {
+          "prob": 0.25059059262275696,
+          "cat": "sweater, jumper"
+        },
+        {
+          "prob": 0.15943461656570435,
+          "last": true,
+          "cat": "pullover, slipover"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2015",
+      "data": [
+        {
+          "prob": 0.5282695293426514,
+          "cat": "sweatshirt"
+        },
+        {
+          "prob": 0.16601523756980896,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.0743124932050705,
+          "last": true,
+          "cat": "jersey, T-shirt, tee shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2017",
+      "data": [
+        {
+          "prob": 0.4444025456905365,
+          "cat": "sweater, jumper"
+        },
+        {
+          "prob": 0.17308147251605988,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.17265118658542633,
+          "last": true,
+          "cat": "garment"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2031",
+      "data": [
+        {
+          "prob": 0.39775678515434265,
+          "cat": "grey, gray"
+        },
+        {
+          "prob": 0.35252273082733154,
+          "cat": "pullover, slipover"
+        },
+        {
+          "prob": 0.2193845510482788,
+          "last": true,
+          "cat": "man's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "TP935",
+      "data": [
+        {
+          "prob": 0.9987733960151672,
+          "cat": "kameez"
+        },
+        {
+          "prob": 0.000412920955568552,
+          "cat": "turtleneck, turtle, polo-neck"
+        },
+        {
+          "prob": 0.000200306240003556,
+          "last": true,
+          "cat": "stole"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2350",
+      "data": [
+        {
+          "prob": 0.5597401857376099,
+          "cat": "black"
+        },
+        {
+          "prob": 0.17622044682502747,
+          "cat": "work-shirt"
+        },
+        {
+          "prob": 0.12196636199951172,
+          "last": true,
+          "cat": "polo shirt, sport shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "DD2349",
+      "data": [
+        {
+          "prob": 0.8799741864204407,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.0788770243525505,
+          "cat": "polo shirt, sport shirt"
+        },
+        {
+          "prob": 0.01558670960366726,
+          "last": true,
+          "cat": "turtleneck, turtle, polo-neck"
+        }
+      ]
+    },
+    {
+      "productCode": "kldn27",
+      "data": [
+        {
+          "prob": 0.6421911120414734,
+          "cat": "polo shirt, sport shirt"
+        },
+        {
+          "prob": 0.23151114583015442,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.07853427529335022,
+          "last": true,
+          "cat": "grey, gray"
+        }
+      ]
+    },
+    {
+      "productCode": "KG428",
+      "data": [
+        {
+          "prob": 0.8107814788818359,
+          "cat": "chemise, sack, shift"
+        },
+        {
+          "prob": 0.0988013818860054,
+          "cat": "blouse"
+        },
+        {
+          "prob": 0.07101643830537796,
+          "last": true,
+          "cat": "tunic"
+        }
+      ]
+    },
+    {
+      "productCode": "od608",
+      "data": [
+        {
+          "prob": 0.6240566372871399,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.2747804820537567,
+          "cat": "clothing, article of clothing, vesture, wear, wearable, habiliment"
+        },
+        {
+          "prob": 0.054571498185396194,
+          "last": true,
+          "cat": "woman's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "j001",
+      "data": [
+        {
+          "prob": 0.46264976263046265,
+          "cat": "sportswear, athletic wear, activewear"
+        },
+        {
+          "prob": 0.14364102482795715,
+          "cat": "jacket"
+        },
+        {
+          "prob": 0.10895707458257675,
+          "last": true,
+          "cat": "shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "j031",
+      "data": [
+        {
+          "prob": 0.47218838334083557,
+          "cat": "apron"
+        },
+        {
+          "prob": 0.1893400102853775,
+          "cat": "sweatshirt"
+        },
+        {
+          "prob": 0.14269661903381348,
+          "last": true,
+          "cat": "grey, gray"
+        }
+      ]
+    },
+    {
+      "productCode": "TW421CA3X",
+      "data": [
+        {
+          "prob": 0.4351150393486023,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.2700135111808777,
+          "cat": "raglan"
+        },
+        {
+          "prob": 0.15200011432170868,
+          "last": true,
+          "cat": "man's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "TW4FW17",
+      "data": [
+        {
+          "prob": 0.4903917610645294,
+          "cat": "mess jacket, monkey jacket, shell jacket"
+        },
+        {
+          "prob": 0.4009911119937897,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.07954572886228561,
+          "last": true,
+          "cat": "parka, windbreaker, windcheater, anorak"
+        }
+      ]
+    },
+    {
+      "productCode": "ZALTT1002",
+      "data": [
+        {
+          "prob": 0.9775355458259583,
+          "cat": "sundress"
+        },
+        {
+          "prob": 0.014714947901666164,
+          "cat": "woman's clothing"
+        },
+        {
+          "prob": 0.0020955076906830072,
+          "last": true,
+          "cat": "halter"
+        }
+      ]
+    },
+    {
+      "productCode": "ZALEO003",
+      "data": [
+        {
+          "prob": 0.9912270903587341,
+          "cat": "maillot, tank suit"
+        },
+        {
+          "prob": 0.004375861957669258,
+          "cat": "beachwear"
+        },
+        {
+          "prob": 0.001997672952711582,
+          "last": true,
+          "cat": "panty girdle"
+        }
+      ]
+    },
+    {
+      "productCode": "ZALTT1003",
+      "data": [
+        {
+          "prob": 0.6415275931358337,
+          "cat": "neckpiece"
+        },
+        {
+          "prob": 0.3581402003765106,
+          "cat": "brassiere, bra, bandeau"
+        },
+        {
+          "prob": 0.00025122161605395377,
+          "last": true,
+          "cat": "camisole, underbodice"
+        }
+      ]
+    },
+    {
+      "productCode": "DD1815",
+      "data": [
+        {
+          "prob": 0.8825311660766602,
+          "cat": "skirt"
+        },
+        {
+          "prob": 0.09333622455596924,
+          "cat": "petticoat, half-slip, underskirt"
+        },
+        {
+          "prob": 0.019530482590198517,
+          "last": true,
+          "cat": "woman's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2210",
+      "data": [
+        {
+          "prob": 0.63525390625,
+          "cat": "sweater, jumper"
+        },
+        {
+          "prob": 0.3132970631122589,
+          "cat": "pullover, slipover"
+        },
+        {
+          "prob": 0.04937414452433586,
+          "last": true,
+          "cat": "knitwear"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2083",
+      "data": [
+        {
+          "prob": 0.9999898672103882,
+          "cat": "turtleneck, turtle, polo-neck"
+        },
+        {
+          "prob": 0.000004976234777132049,
+          "cat": "apparel, wearing apparel, dress, clothes"
+        },
+        {
+          "prob": 0.0000035708255836652825,
+          "last": true,
+          "cat": "hood"
+        }
+      ]
+    },
+    {
+      "productCode": "dd913215",
+      "data": [
+        {
+          "prob": 0.4747914671897888,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.40883705019950867,
+          "cat": "blouse"
+        },
+        {
+          "prob": 0.04918639361858368,
+          "last": true,
+          "cat": "dressing gown, robe-de-chambre, lounging robe"
+        }
+      ]
+    },
+    {
+      "productCode": "debb1top",
+      "data": [
+        {
+          "prob": 0.7052677273750305,
+          "cat": "poncho"
+        },
+        {
+          "prob": 0.1504015177488327,
+          "cat": "jacket"
+        },
+        {
+          "prob": 0.09242404252290726,
+          "last": true,
+          "cat": "outerwear, overclothes"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1002",
+      "data": [
+        {
+          "prob": 0.4327179491519928,
+          "cat": "muffler"
+        },
+        {
+          "prob": 0.3285151422023773,
+          "cat": "stole"
+        },
+        {
+          "prob": 0.08732323348522186,
+          "last": true,
+          "cat": "scarf"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1022",
+      "data": [
+        {
+          "prob": 0.9659387469291687,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.02572544291615486,
+          "cat": "black"
+        },
+        {
+          "prob": 0.0039768097922205925,
+          "last": true,
+          "cat": "woman's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "N9333681",
+      "data": [
+        {
+          "prob": 0.6313047409057617,
+          "cat": "stretch pants"
+        },
+        {
+          "prob": 0.19665120542049408,
+          "cat": "trouser"
+        },
+        {
+          "prob": 0.09014105051755905,
+          "last": true,
+          "cat": "cords, corduroys"
+        }
+      ]
+    },
+    {
+      "productCode": "N9333682",
+      "data": [
+        {
+          "prob": 0.5152865052223206,
+          "cat": "cords, corduroys"
+        },
+        {
+          "prob": 0.15712997317314148,
+          "cat": "pullover, slipover"
+        },
+        {
+          "prob": 0.13416309654712677,
+          "last": true,
+          "cat": "stretch pants"
+        }
+      ]
+    },
+    {
+      "productCode": "POMPOM",
+      "data": [
+        {
+          "prob": 0.8595406413078308,
+          "cat": "jersey, T-shirt, tee shirt"
+        },
+        {
+          "prob": 0.14007174968719482,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.00030681450152769685,
+          "last": true,
+          "cat": "straitjacket, straightjacket"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ414493",
+      "data": [
+        {
+          "prob": 0.3024795651435852,
+          "cat": "corset, girdle, stays"
+        },
+        {
+          "prob": 0.21749480068683624,
+          "cat": "miniskirt, mini"
+        },
+        {
+          "prob": 0.12236101180315018,
+          "last": true,
+          "cat": "panty girdle"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415878",
+      "data": [
+        {
+          "prob": 0.4736822247505188,
+          "cat": "grey, gray"
+        },
+        {
+          "prob": 0.4260801076889038,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.07509049773216248,
+          "last": true,
+          "cat": "jersey, T-shirt, tee shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ416468",
+      "data": [
+        {
+          "prob": 0.45948880910873413,
+          "cat": "scarf"
+        },
+        {
+          "prob": 0.33170437812805176,
+          "cat": "stole"
+        },
+        {
+          "prob": 0.06838594377040863,
+          "last": true,
+          "cat": "bolero"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ418048",
+      "data": [
+        {
+          "prob": 0.6033399105072021,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.1821126937866211,
+          "cat": "pullover, slipover"
+        },
+        {
+          "prob": 0.11613094806671143,
+          "last": true,
+          "cat": "sweatshirt"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ418364",
+      "data": [
+        {
+          "prob": 0.8932278156280518,
+          "cat": "neckerchief"
+        },
+        {
+          "prob": 0.06226034462451935,
+          "cat": "neckpiece"
+        },
+        {
+          "prob": 0.01722666248679161,
+          "last": true,
+          "cat": "leotard, unitard, body suit, cat suit"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC10667",
+      "data": [
+        {
+          "prob": 0.37823984026908875,
+          "cat": "pantie, panty, scanty, step-in"
+        },
+        {
+          "prob": 0.2070094496011734,
+          "cat": "underpants"
+        },
+        {
+          "prob": 0.1400832235813141,
+          "last": true,
+          "cat": "briefs, Jockey shorts"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11085",
+      "data": [
+        {
+          "prob": 0.6678748726844788,
+          "cat": "blouse"
+        },
+        {
+          "prob": 0.268915593624115,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.043190568685531616,
+          "last": true,
+          "cat": "nightwear, sleepwear, nightclothes"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11087",
+      "data": [
+        {
+          "prob": 0.3937695026397705,
+          "cat": "raglan"
+        },
+        {
+          "prob": 0.29299017786979675,
+          "cat": "overall"
+        },
+        {
+          "prob": 0.12180542945861816,
+          "last": true,
+          "cat": "sweatshirt"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11091",
+      "data": [
+        {
+          "prob": 0.9405364394187927,
+          "cat": "shawl"
+        },
+        {
+          "prob": 0.059033527970314026,
+          "cat": "poncho"
+        },
+        {
+          "prob": 0.000214854022487998,
+          "last": true,
+          "cat": "stole"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11092",
+      "data": [
+        {
+          "prob": 0.6750805974006653,
+          "cat": "grey, gray"
+        },
+        {
+          "prob": 0.21965327858924866,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.05023631080985069,
+          "last": true,
+          "cat": "overgarment, outer garment"
+        }
+      ]
+    },
+    {
+      "productCode": "TJC11093",
+      "data": [
+        {
+          "prob": 0.7970930933952332,
+          "cat": "parka, windbreaker, windcheater, anorak"
+        },
+        {
+          "prob": 0.18798117339611053,
+          "cat": "jacket"
+        },
+        {
+          "prob": 0.010382569395005703,
+          "last": true,
+          "cat": "hood"
+        }
+      ]
+    },
+    {
+      "productCode": "DD913215A",
+      "data": [
+        {
+          "prob": 0.7358167767524719,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.09870181977748871,
+          "cat": "grey, gray"
+        },
+        {
+          "prob": 0.03734220936894417,
+          "last": true,
+          "cat": "clothing, article of clothing, vesture, wear, wearable, habiliment"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1009",
+      "data": [
+        {
+          "prob": 0.6930410265922546,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.13352008163928986,
+          "cat": "sheepskin coat, afghan"
+        },
+        {
+          "prob": 0.054898008704185486,
+          "last": true,
+          "cat": "woman's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1010",
+      "data": [
+        {
+          "prob": 0.9964807629585266,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.002499097026884556,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.00025259656831622124,
+          "last": true,
+          "cat": "hood"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1011",
+      "data": [
+        {
+          "prob": 0.7528384923934937,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.1676640659570694,
+          "cat": "man's clothing"
+        },
+        {
+          "prob": 0.031070806086063385,
+          "last": true,
+          "cat": "doublet"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1012",
+      "data": [
+        {
+          "prob": 0.9655665159225464,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.0205504409968853,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.00879774708300829,
+          "last": true,
+          "cat": "muffler"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1013",
+      "data": [
+        {
+          "prob": 0.5684182047843933,
+          "cat": "sportswear, athletic wear, activewear"
+        },
+        {
+          "prob": 0.15713541209697723,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.10594478249549866,
+          "last": true,
+          "cat": "jacket"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1016",
+      "data": [
+        {
+          "prob": 0.5732947587966919,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.2472906857728958,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.12723340094089508,
+          "last": true,
+          "cat": "knitwear"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1017",
+      "data": [
+        {
+          "prob": 0.5877090692520142,
+          "cat": "cloak"
+        },
+        {
+          "prob": 0.355461448431015,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.025361210107803345,
+          "last": true,
+          "cat": "poncho"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1020",
+      "data": [
+        {
+          "prob": 0.8563935160636902,
+          "cat": "knitwear"
+        },
+        {
+          "prob": 0.0859515368938446,
+          "cat": "camisole, underbodice"
+        },
+        {
+          "prob": 0.03143566846847534,
+          "last": true,
+          "cat": "sweater, jumper"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1029",
+      "data": [
+        {
+          "prob": 0.9993725419044495,
+          "cat": "sweat pants, sweatpants"
+        },
+        {
+          "prob": 0.0004410085384733975,
+          "cat": "long trousers, long pants"
+        },
+        {
+          "prob": 0.00006692495662719011,
+          "last": true,
+          "cat": "pedal pusher, toreador pants"
+        }
+      ]
+    },
+    {
+      "productCode": "MG1030",
+      "data": [
+        {
+          "prob": 0.8462908267974854,
+          "cat": "long trousers, long pants"
+        },
+        {
+          "prob": 0.10242966562509537,
+          "cat": "slacks"
+        },
+        {
+          "prob": 0.01823033206164837,
+          "last": true,
+          "cat": "bellbottom trousers, bell-bottoms, bellbottom pants"
+        }
+      ]
+    },
+    {
+      "productCode": "MG10222",
+      "data": [
+        {
+          "prob": 0.9720051884651184,
+          "cat": "turtleneck, turtle, polo-neck"
+        },
+        {
+          "prob": 0.02366616204380989,
+          "cat": "knitwear"
+        },
+        {
+          "prob": 0.0030079542193561792,
+          "last": true,
+          "cat": "street clothes"
+        }
+      ]
+    },
+    {
+      "productCode": "tj415547",
+      "data": [
+        {
+          "prob": 0.49014177918434143,
+          "cat": "cloak"
+        },
+        {
+          "prob": 0.30626165866851807,
+          "cat": "sack coat"
+        },
+        {
+          "prob": 0.18087317049503326,
+          "last": true,
+          "cat": "fur"
+        }
+      ]
+    },
+    {
+      "productCode": "mg1005",
+      "data": [
+        {
+          "prob": 0.5853429436683655,
+          "cat": "chasuble"
+        },
+        {
+          "prob": 0.3948947787284851,
+          "cat": "vestment"
+        },
+        {
+          "prob": 0.006872291676700115,
+          "last": true,
+          "cat": "jersey, T-shirt, tee shirt"
+        }
+      ]
+    },
+    {
+      "productCode": "mg1004",
+      "data": [
+        {
+          "prob": 0.8382534980773926,
+          "cat": "turtleneck, turtle, polo-neck"
+        },
+        {
+          "prob": 0.09457596391439438,
+          "cat": "fur"
+        },
+        {
+          "prob": 0.04390806332230568,
+          "last": true,
+          "cat": "poncho"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ514263D",
+      "data": [
+        {
+          "prob": 0.3928159475326538,
+          "cat": "trouser"
+        },
+        {
+          "prob": 0.22532106935977936,
+          "cat": "maxi"
+        },
+        {
+          "prob": 0.05466625466942787,
+          "last": true,
+          "cat": "chasuble"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415935",
+      "data": [
+        {
+          "prob": 0.4269542396068573,
+          "cat": "turtleneck, turtle, polo-neck"
+        },
+        {
+          "prob": 0.22486035525798798,
+          "cat": "fur"
+        },
+        {
+          "prob": 0.09841800481081009,
+          "last": true,
+          "cat": "street clothes"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415934",
+      "data": [
+        {
+          "prob": 0.3623735010623932,
+          "cat": "coat"
+        },
+        {
+          "prob": 0.21359412372112274,
+          "cat": "greatcoat, overcoat, topcoat"
+        },
+        {
+          "prob": 0.17419017851352692,
+          "last": true,
+          "cat": "parka, windbreaker, windcheater, anorak"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415933",
+      "data": [
+        {
+          "prob": 0.9999799728393555,
+          "cat": "straitjacket, straightjacket"
+        },
+        {
+          "prob": 0.000014507299056276679,
+          "cat": "underpants"
+        },
+        {
+          "prob": 0.000001564429112477228,
+          "last": true,
+          "cat": "pantie, panty, scanty, step-in"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ415932",
+      "data": [
+        {
+          "prob": 0.2822807729244232,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.16727963089942932,
+          "cat": "two-piece, two-piece suit, lounge suit"
+        },
+        {
+          "prob": 0.12817826867103577,
+          "last": true,
+          "cat": "single-breasted suit"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ4159322",
+      "data": [
+        {
+          "prob": 0.7527666091918945,
+          "cat": "Bermuda shorts, Jamaica shorts"
+        },
+        {
+          "prob": 0.19941040873527527,
+          "cat": "pajama, pyjama"
+        },
+        {
+          "prob": 0.01873522251844406,
+          "last": true,
+          "cat": "hot pants"
+        }
+      ]
+    },
+    {
+      "productCode": "R9936295",
+      "data": [
+        {
+          "prob": 0.6279548406600952,
+          "cat": "Bermuda shorts, Jamaica shorts"
+        },
+        {
+          "prob": 0.20389236509799957,
+          "cat": "pedal pusher, toreador pants"
+        },
+        {
+          "prob": 0.06995097547769547,
+          "last": true,
+          "cat": "slacks"
+        }
+      ]
+    },
+    {
+      "productCode": "N9333569",
+      "data": [
+        {
+          "prob": 0.46372464299201965,
+          "cat": "chasuble"
+        },
+        {
+          "prob": 0.1473177671432495,
+          "cat": "chemise, sack, shift"
+        },
+        {
+          "prob": 0.10463912785053253,
+          "last": true,
+          "cat": "tunic"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1920etek",
+      "data": [
+        {
+          "prob": 0.6381806135177612,
+          "cat": "trouser, pant"
+        },
+        {
+          "prob": 0.16548213362693787,
+          "cat": "bellbottom trousers, bell-bottoms, bellbottom pants"
+        },
+        {
+          "prob": 0.05317094177007675,
+          "last": true,
+          "cat": "pedal pusher, toreador pants"
+        }
+      ]
+    },
+    {
+      "productCode": "OB810718",
+      "data": [
+        {
+          "prob": 0.8998322486877441,
+          "cat": "clothing, article of clothing, vesture, wear, wearable, habiliment"
+        },
+        {
+          "prob": 0.035553742200136185,
+          "cat": "sportswear, athletic wear, activewear"
+        },
+        {
+          "prob": 0.02628437615931034,
+          "last": true,
+          "cat": "tunic"
+        }
+      ]
+    },
+    {
+      "productCode": "OB801161",
+      "data": [
+        {
+          "prob": 0.7604879140853882,
+          "cat": "trouser"
+        },
+        {
+          "prob": 0.09685240685939789,
+          "cat": "stretch pants"
+        },
+        {
+          "prob": 0.07248405367136002,
+          "last": true,
+          "cat": "bellbottom trousers, bell-bottoms, bellbottom pants"
+        }
+      ]
+    },
+    {
+      "productCode": "OB8107182",
+      "data": [
+        {
+          "prob": 0.5720126032829285,
+          "cat": "trouser"
+        },
+        {
+          "prob": 0.4089237451553345,
+          "cat": "trouser, pant"
+        },
+        {
+          "prob": 0.013092936016619205,
+          "last": true,
+          "cat": "short pants, shorts, trunks"
+        }
+      ]
+    },
+    {
+      "productCode": "jacquard_skirt",
+      "data": [
+        {
+          "prob": 0.9998420476913452,
+          "cat": "apron"
+        },
+        {
+          "prob": 0.0001530552690383047,
+          "cat": "skirt"
+        },
+        {
+          "prob": 0.00000384439408662729,
+          "last": true,
+          "cat": "money belt"
+        }
+      ]
+    },
+    {
+      "productCode": "OB8107183",
+      "data": [
+        {
+          "prob": 0.9063436985015869,
+          "cat": "jacket"
+        },
+        {
+          "prob": 0.06022239848971367,
+          "cat": "man's clothing"
+        },
+        {
+          "prob": 0.012414753437042236,
+          "last": true,
+          "cat": "cardigan"
+        }
+      ]
+    },
+    {
+      "productCode": "OB820496",
+      "data": [
+        {
+          "prob": 0.7576992511749268,
+          "cat": "bolero"
+        },
+        {
+          "prob": 0.08887659013271332,
+          "cat": "pullover, slipover"
+        },
+        {
+          "prob": 0.04642563685774803,
+          "last": true,
+          "cat": "woman's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "OB829955",
+      "data": [
+        {
+          "prob": 0.6460299491882324,
+          "cat": "black"
+        },
+        {
+          "prob": 0.17933310568332672,
+          "cat": "cocktail dress, sheath"
+        },
+        {
+          "prob": 0.10223539918661118,
+          "last": true,
+          "cat": "woman's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "OB831749",
+      "data": [
+        {
+          "prob": 0.9987558126449585,
+          "cat": "skirt"
+        },
+        {
+          "prob": 0.0010744641767814755,
+          "cat": "miniskirt, mini"
+        },
+        {
+          "prob": 0.00016676061204634607,
+          "last": true,
+          "cat": "apron"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ413279",
+      "data": [
+        {
+          "prob": 0.9739381074905396,
+          "cat": "sweater, jumper"
+        },
+        {
+          "prob": 0.020284930244088173,
+          "cat": "pullover, slipover"
+        },
+        {
+          "prob": 0.0035890224389731884,
+          "last": true,
+          "cat": "hood"
+        }
+      ]
+    },
+    {
+      "productCode": "OB810718Tul",
+      "data": [
+        {
+          "prob": 0.7097001075744629,
+          "cat": "tunic"
+        },
+        {
+          "prob": 0.10183222591876984,
+          "cat": "abaya"
+        },
+        {
+          "prob": 0.05397402122616768,
+          "last": true,
+          "cat": "chemise, sack, shift"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ41427091A",
+      "data": [
+        {
+          "prob": 0.41885000467300415,
+          "cat": "negligee, neglige, peignoir, wrapper, housecoat"
+        },
+        {
+          "prob": 0.27594226598739624,
+          "cat": "robe"
+        },
+        {
+          "prob": 0.154571995139122,
+          "last": true,
+          "cat": "nightwear, sleepwear, nightclothes"
+        }
+      ]
+    },
+    {
+      "productCode": "bodycon4",
+      "data": [
+        {
+          "prob": 0.9111095070838928,
+          "cat": "camisole, underbodice"
+        },
+        {
+          "prob": 0.0471699982881546,
+          "cat": "camisole"
+        },
+        {
+          "prob": 0.025597697123885155,
+          "last": true,
+          "cat": "chemise, sack, shift"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1506",
+      "data": [
+        {
+          "prob": 0.9267404675483704,
+          "cat": "nightgown, gown, nightie, night-robe, nightdress"
+        },
+        {
+          "prob": 0.05663146451115608,
+          "cat": "dressing gown, robe-de-chambre, lounging robe"
+        },
+        {
+          "prob": 0.007090138271450996,
+          "last": true,
+          "cat": "robe"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1518",
+      "data": [
+        {
+          "prob": 0.627793550491333,
+          "cat": "doublet"
+        },
+        {
+          "prob": 0.15988418459892273,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.12537874281406403,
+          "last": true,
+          "cat": "woman's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1537",
+      "data": [
+        {
+          "prob": 0.4205198884010315,
+          "cat": "trench coat"
+        },
+        {
+          "prob": 0.21883423626422882,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.07587024569511414,
+          "last": true,
+          "cat": "bomber jacket"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1585",
+      "data": [
+        {
+          "prob": 0.535457193851471,
+          "cat": "stole"
+        },
+        {
+          "prob": 0.17454583942890167,
+          "cat": "blouse"
+        },
+        {
+          "prob": 0.15463018417358398,
+          "last": true,
+          "cat": "halter"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1594",
+      "data": [
+        {
+          "prob": 0.9248104691505432,
+          "cat": "costume"
+        },
+        {
+          "prob": 0.06420760601758957,
+          "cat": "chemise, shimmy, shift, slip, teddy"
+        },
+        {
+          "prob": 0.0032894345931708813,
+          "last": true,
+          "cat": "tunic"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1601",
+      "data": [
+        {
+          "prob": 0.7626761794090271,
+          "cat": "corset, girdle, stays"
+        },
+        {
+          "prob": 0.06822122633457184,
+          "cat": "lingerie, intimate apparel"
+        },
+        {
+          "prob": 0.031250640749931335,
+          "last": true,
+          "cat": "panty girdle"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1603",
+      "data": [
+        {
+          "prob": 0.7640089392662048,
+          "cat": "bolero"
+        },
+        {
+          "prob": 0.09925379604101181,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.055014725774526596,
+          "last": true,
+          "cat": "grey, gray"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1604",
+      "data": [
+        {
+          "prob": 0.9713380932807922,
+          "cat": "leotard, unitard, body suit, cat suit"
+        },
+        {
+          "prob": 0.01835671067237854,
+          "cat": "tights, leotards"
+        },
+        {
+          "prob": 0.009717077016830444,
+          "last": true,
+          "cat": "turtleneck, turtle, polo-neck"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1608",
+      "data": [
+        {
+          "prob": 0.7858485579490662,
+          "cat": "shirt"
+        },
+        {
+          "prob": 0.16075608134269714,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.052364449948072433,
+          "last": true,
+          "cat": "clothing, article of clothing, vesture, wear, wearable, habiliment"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1609",
+      "data": [
+        {
+          "prob": 0.910999596118927,
+          "cat": "blouse"
+        },
+        {
+          "prob": 0.0726085975766182,
+          "cat": "bolero"
+        },
+        {
+          "prob": 0.0038495613262057304,
+          "last": true,
+          "cat": "stole"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1622",
+      "data": [
+        {
+          "prob": 0.5117107033729553,
+          "cat": "vestment"
+        },
+        {
+          "prob": 0.4006516635417938,
+          "cat": "academic gown, academic robe, judge's robe"
+        },
+        {
+          "prob": 0.030804205685853958,
+          "last": true,
+          "cat": "chasuble"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1628",
+      "data": [
+        {
+          "prob": 0.47421011328697205,
+          "cat": "garment"
+        },
+        {
+          "prob": 0.3538079261779785,
+          "cat": "woman's clothing"
+        },
+        {
+          "prob": 0.057597819715738297,
+          "last": true,
+          "cat": "ballet skirt, tutu"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1715",
+      "data": [
+        {
+          "prob": 0.7594497799873352,
+          "cat": "bomber jacket"
+        },
+        {
+          "prob": 0.1863941252231598,
+          "cat": "jacket"
+        },
+        {
+          "prob": 0.0326257161796093,
+          "last": true,
+          "cat": "mess jacket, monkey jacket, shell jacket"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1906",
+      "data": [
+        {
+          "prob": 0.3857298791408539,
+          "cat": "bomber jacket"
+        },
+        {
+          "prob": 0.10944710671901703,
+          "cat": "clothing, article of clothing, vesture, wear, wearable, habiliment"
+        },
+        {
+          "prob": 0.07960547506809235,
+          "last": true,
+          "cat": "garment"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1922",
+      "data": [
+        {
+          "prob": 0.3215882182121277,
+          "cat": "underpants"
+        },
+        {
+          "prob": 0.13544747233390808,
+          "cat": "stocking"
+        },
+        {
+          "prob": 0.12161435931921005,
+          "last": true,
+          "cat": "knee pad"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1936",
+      "data": [
+        {
+          "prob": 0.559453547000885,
+          "cat": "chemise, sack, shift"
+        },
+        {
+          "prob": 0.2528590261936188,
+          "cat": "dressing gown, robe-de-chambre, lounging robe"
+        },
+        {
+          "prob": 0.1756668984889984,
+          "last": true,
+          "cat": "nightgown, gown, nightie, night-robe, nightdress"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2000",
+      "data": [
+        {
+          "prob": 0.9999154806137085,
+          "cat": "grey, gray"
+        },
+        {
+          "prob": 0.000028675443900283426,
+          "cat": "outerwear, overclothes"
+        },
+        {
+          "prob": 0.00002490790757292416,
+          "last": true,
+          "cat": "knitwear"
+        }
+      ]
+    },
+    {
+      "productCode": "dd2031",
+      "data": [
+        {
+          "prob": 0.39775678515434265,
+          "cat": "grey, gray"
+        },
+        {
+          "prob": 0.35252273082733154,
+          "cat": "pullover, slipover"
+        },
+        {
+          "prob": 0.2193845510482788,
+          "last": true,
+          "cat": "man's clothing"
+        }
+      ]
+    },
+    {
+      "productCode": "TJ418175",
+      "data": [
+        {
+          "prob": 0.24201631546020508,
+          "cat": "neckerchief"
+        },
+        {
+          "prob": 0.16808901727199554,
+          "cat": "bonnet, poke bonnet"
+        },
+        {
+          "prob": 0.16235443949699402,
+          "last": true,
+          "cat": "hood"
+        }
+      ]
+    },
+    {
+      "productCode": "dd1560",
+      "data": [
+        {
+          "prob": 0.6819047927856445,
+          "cat": "hood"
+        },
+        {
+          "prob": 0.07025353610515594,
+          "cat": "blouse"
+        },
+        {
+          "prob": 0.06998938322067261,
+          "last": true,
+          "cat": "cardigan"
+        }
+      ]
+    }
+  ]

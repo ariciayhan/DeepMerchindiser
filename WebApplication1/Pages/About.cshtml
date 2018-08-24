@@ -1,0 +1,184 @@
+﻿@page
+@model AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+
+
+<div class="row">
+    <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+        <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="products/@(Model.ProductCode).jpg" alt=""></a>
+            <div class="card-body">
+                <h4 class="card-title">
+                    <a href="/about?productCode=@(Model.ProductCode)"> @(Model.ProductCode)</a>
+                </h4>
+                <p class="card-text"> </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-4  portfolio-item">
+        <div class="card h-100">
+            <div class="card-body">
+                <h4 class="card-title">
+                    Categories
+                </h4>
+                <p class="card-text clothingpredictions"> </p>
+                <h4 class="card-title">
+                    Fabric
+                </h4>
+                <p class="card-text fabricpredictions"> </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-4  portfolio-item">
+        <div class="card h-100">
+            <div class="card-body">
+                <h4 class="card-title">
+                    Price Range
+                </h4>
+                <p class="card-text priceranges"> </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<h2>Similar Items</h2>
+<div class="row similars">
+</div>
+
+
+@section Scripts {
+
+    <script id="entry-template" type="text/x-handlebars-template">
+        {{#each products}}
+        <div class="col-lg-2 col-md-2 col-sm-6 portfolio-item">
+            <div class="card h-100">
+                <a href="#"><img class="card-img-top" src="products/{{productcode}}.jpg" alt=""></a>
+                <div class="card-body">
+                    <h4 class="card-title">
+                        <a href="/about?productCode={{productcode}}">Model No: {{productcode}}</a>
+                    </h4>
+                    <p class="card-text">
+                        <div class="row"><div class="col-lg-6"><div class="progress"><div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="{{score}}" aria-valuemin="0" aria-valuemax="100" style="width: {{score}}%;">{{score}}%</div></div></div><div class="col-lg-6">Similarity</div></div>
+                        <br />
+                        {{price}} EUR
+                    </p>
+
+                </div>
+            </div>
+        </div>
+        {{/each}}
+    </script>
+
+    <script id="price-template" type="text/x-handlebars-template">
+        <div>Min {{min}} EUR </div>
+        <div>Avg  {{avg}} EUR </div>
+        <div>Max  {{max}} EUR </div>
+
+        <div>Original  {{originalPrice}} EUR </div>
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $.get("/data/clothingresults.json", function (data) {
+
+                $.each(data, function (i, v) {
+
+                    if (v.productCode == '@(Model.ProductCode)') {
+                        $.each(v.data, function () {
+                            var percent = parseInt(this.prob * 100);
+
+                            var style = 'success';
+
+                            if (percent < 60) {
+                                style = 'warning';
+                            }
+
+                            if (percent < 25) {
+                                style = 'danger';
+                            }
+
+                            var predictionHtml = '<div class="row"><div class="col-lg-6">';
+                            predictionHtml += '<div class="progress">';
+                            predictionHtml += '<div class="progress-bar ';
+                            predictionHtml += 'progress-bar-' + style + '" ';
+                            predictionHtml += 'role="progressbar" ';
+                            predictionHtml += 'aria-valuenow="' + percent + '" ';
+                            predictionHtml += 'aria-valuemin="0" ';
+                            predictionHtml += 'aria-valuemax="100" ';
+                            predictionHtml += 'style="width: ' + percent + '%;">';
+                            predictionHtml += percent + '%</div></div></div>';
+                            predictionHtml += '<div class="col-lg-6">';
+                            predictionHtml += this.cat + '</div></div>';
+                            $('.clothingpredictions').append(predictionHtml);
+                        });
+                        return;
+                    }
+                });
+            });
+
+            $.get("/data/fabricresults.json", function (data) {
+
+                 $.each(data, function (i, v) {
+                    if (v.productCode == '@(Model.ProductCode)') {
+                        $.each(v.data, function () {
+                            var percent = parseInt(this.prob * 100);
+
+                            var style = 'success';
+
+                            if (percent < 60) {
+                                style = 'warning';
+                            }
+
+                            if (percent < 25) {
+                                style = 'danger';
+                            }
+
+                            var predictionHtml = '<div class="row"><div class="col-lg-6">';
+                            predictionHtml += '<div class="progress">';
+                            predictionHtml += '<div class="progress-bar ';
+                            predictionHtml += 'progress-bar-' + style + '" ';
+                            predictionHtml += 'role="progressbar" ';
+                            predictionHtml += 'aria-valuenow="' + percent + '" ';
+                            predictionHtml += 'aria-valuemin="0" ';
+                            predictionHtml += 'aria-valuemax="100" ';
+                            predictionHtml += 'style="width: ' + percent + '%;">';
+                            predictionHtml += percent + '%</div></div></div>';
+                            predictionHtml += '<div class="col-lg-6">';
+                            predictionHtml += this.cat + '</div></div>';
+                            $('.fabricpredictions').append(predictionHtml);
+                        });
+                        return;
+                    }
+                });
+            });
+
+
+            $.get("/search?productCode=@(Model.ProductCode)", function (data) {
+
+                    //var context = { products: data };
+                    var source = document.getElementById("entry-template").innerHTML;
+                    var template = Handlebars.compile(source);
+                    var html = template(data);
+                    $('.similars').html(html);
+
+                var source2 = document.getElementById("price-template").innerHTML;
+                var template2 = Handlebars.compile(source2);
+                var html2 = template2(data);
+                $('.priceranges').html(html2);
+                
+
+
+               
+            });
+
+
+
+        });</script>
+}

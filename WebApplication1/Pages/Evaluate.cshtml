@@ -1,0 +1,43 @@
+﻿@page
+@model EvalModel
+@{
+    
+}
+
+<div class="container">
+    <!-- Page Heading -->
+    <h1 class="my-4">
+@ViewData["Title"] 
+    </h1>
+
+    <div class="row catalog">        
+        <table class="table">
+            <tr>
+                <th>Input</th>
+                <th>Item 1</th>
+                <th>Item 2</th>
+                <th>Item 3</th>
+                <th>Item 4</th>
+                <th>Item 5</th>                
+            </tr>
+                @foreach(var key in Model.TestResults.Keys){
+        <tr>
+            <td>
+                <img src="~/products/@(key.ModelNo).jpg" width="100px" height="150px">
+                <br /> @key.Price EUR
+            </td>
+            @foreach(var item in Model.TestResults[key]){
+        <td><img src="~/products/@(item.ModelNo).jpg" width="100px" height="150px"> <br /> Similarity: @item.Score </td>
+                    }
+
+        </tr>
+            }
+            </table>
+
+    </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+@section Scripts {
+  
+}

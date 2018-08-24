@@ -1,0 +1,11 @@
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\Index.deps.json
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\Index.runtimeconfig.json
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\Index.runtimeconfig.dev.json
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\Index.dll
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\Index.pdb
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Index.csprojResolveAssemblyReference.cache
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Index.csproj.CoreCompileInputs.cache
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Index.AssemblyInfoInputs.cache
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Index.AssemblyInfo.cs
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Index.dll
+C:\Users\ariciogull\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\Index.pdb

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "ab9ab67fb1ebf569365d719d78267af5db3d4395"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConsoleApp2/1.0.0": {
+        "dependencies": {
+          "Clarifai": "1.1.1"
+        },
+        "runtime": {
+          "ConsoleApp2.dll": {}
+        }
+      },
+      "Clarifai/1.1.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Clarifai.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clarifai/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FnaduWBuFRyUg87GpqYebjaU6d+vb/J9D8MAZOhN2eiK/PektOAm9Oug6Q/umlUYqpvZT8Efu9Id0hiQhr8caQ==",
+      "path": "clarifai/1.1.1",
+      "hashPath": "clarifai.1.1.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "path": "newtonsoft.json/11.0.1",
+      "hashPath": "newtonsoft.json.11.0.1.nupkg.sha512"
+    }
+  }
+}
